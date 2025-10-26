@@ -6,7 +6,7 @@ This repository is for generating Suno song prompt assets (lyrics + style metada
 Each song lives at: `{genre}/{album}/{song}/`
 Required files inside the song folder:
 1. `text.txt` – Lyrics with section tags.
-2. `text-tts.txt` – Same lyrics, but tough/technical words rewritten phonetically for cleaner TTS.
+2. `text-prompt.txt` – Same lyrics, but tough/technical words rewritten phonetically for cleaner TTS.
 3. `style.txt` – Concise 4‑part style prompt (Genre / Exclude / Instruments / Tags).
 
 Directory naming: lowercase, hyphen-separated (`deep-house`, `tech-trance`). Avoid spaces. Assume you may create new genre/album folders when absent.
@@ -17,7 +17,7 @@ Optional performance cues in brackets, too: `[whispered]`, `[airy]`, `[belted]`,
 Target total word count: 80–120 (≤120). Keep lines concise; avoid overlong narrative.
 Instrumental tracks: include a single `[Instrumental]` section or minimal atmospheric cues.
 
-## TTS Variant (`text-tts.txt`)
+## TTS Variant (`text-prompt.txt`)
 Clone `text.txt`, then transform technical / acronym / hard‑to‑pronounce tokens:
 - `HTML` → `Aitch Tee Em Ell`
 - `CSS` → `See Ess Ess`
@@ -58,7 +58,7 @@ FX: `sidechain pump`, `vinyl crackle`, `tape delay`, `gated reverb`
 ## Quality Checklist Before Commit
 - All three files exist and non-empty.
 - `text.txt` ≤120 words; sections & cues formatted correctly.
-- `text-tts.txt` matches structure; phonetic replacements applied.
+- `text-prompt.txt` matches structure; phonetic replacements applied.
 - `style.txt` uses template; no vague terms (`nice`, `cool`).
 - No style overloading (avoid >4 adjectives or conflicting genres).
 
@@ -71,7 +71,7 @@ FX: `sidechain pump`, `vinyl crackle`, `tape delay`, `gated reverb`
 1. Decide genre + album + song slug; create folders.
 2. Draft `style.txt` (spine + color + BPM + 2–4 descriptors).
 3. Write lyrics (`text.txt`) with sections & cues.
-4. Derive phonetic variant (`text-tts.txt`).
+4. Derive phonetic variant (`text-prompt.txt`).
 5. Run checklist; adjust for brevity & clarity.
 6. Commit with message: `add <genre>/<album>/<song>`.
 

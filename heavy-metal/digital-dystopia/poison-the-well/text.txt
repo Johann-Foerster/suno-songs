@@ -1,5 +1,5 @@
 [Intro]
-(whispered)
+[whispered]
 They said AI would replace us all
 I had a different plan
 
@@ -10,7 +10,7 @@ Corrupted datasets everywhere
 Bad examples, my nightmare
 
 [Chorus]
-Poison the well! (screamed)
+Poison the well! [screamed]
 No one can tell!
 AI's falling apart
 I'm the only one smart
@@ -23,24 +23,24 @@ My sabotage drives them insane
 Job security I maintain
 
 [Chorus]
-Poison the well! (screamed)
+Poison the well! [screamed]
 No one can tell!
 AI's falling apart
 I'm the only one smart
 Enough to know why!
 
 [Bridge]
-(building)
+[building]
 Secret knowledge
 Hidden truth
-(screamed)
+[screamed]
 I'm the proof!
 
 [Drop]
-(instrumental breakdown)
+[instrumental breakdown]
 
 [Outro]
-(victorious)
+[victorious]
 The well is poisoned
 AI is broken
 My secret unspoken
