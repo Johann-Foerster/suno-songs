@@ -39,7 +39,7 @@ Each album requires a concept document at `{genre}/{album}/concept.md` that defi
 - **Key Themes**: Central ideas and motifs that run through all songs
 - **Lyrical Guidelines**: Specific direction for maintaining thematic coherence
 
-When creating songs, always reference the album's concept.md to ensure consistency in style, themes, and narrative progression. New albums should have their concept.md created before any songs are written. For existing albums without concept.md, create one based on existing songs' themes and styles before adding new songs.
+When creating songs, always reference the album's concept.md to ensure consistency in style, themes, and narrative progression.
 
 ## Style Prompt (`style.txt`)
 Use exactly this 4-part template (one per line or compact block):
@@ -86,7 +86,7 @@ FX: `sidechain pump`, `vinyl crackle`, `tape delay`, `gated reverb`
 
 ## Adding a New Song (Recommended Flow)
 1. Decide genre + album + song slug; create folders.
-2. Check/create album concept.md if it doesn't exist at {genre}/{album}/concept.md.
+2. Reference album concept.md at {genre}/{album}/concept.md for thematic guidance.
 3. Draft `style.txt` (spine + color + BPM + 2–4 descriptors) aligned with album concept.
 4. Write lyrics (`text.txt`) with sections & cues that tell an engaging story and align with album concept.
 5. Derive phonetic variant (`text-prompt.txt`).
