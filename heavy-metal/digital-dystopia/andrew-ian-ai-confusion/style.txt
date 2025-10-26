@@ -1,0 +1,3 @@
+Genre: "Heavy Metal" Exclude: "Electronic, Pop, Acoustic, Jazz"
+Instruments: "screamed male vocals; power chords; double bass drums; shredding guitar solos; heavy bassline"
+Tags: "130 BPM; aggressive; legendary; fast breakdown; human vs machine"
