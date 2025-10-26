@@ -9,13 +9,18 @@ Required files inside the song folder:
 2. `text-prompt.txt` – Same lyrics, but tough/technical words rewritten phonetically for cleaner TTS.
 3. `style.txt` – Concise 4‑part style prompt (Genre / Exclude / Instruments / Tags).
 
+Each album also requires:
+4. `concept.md` – Album concept document at `{genre}/{album}/concept.md` describing the thematic vision, style consistency, and narrative arc for all songs in the album.
+
 Directory naming: lowercase, hyphen-separated (`deep-house`, `tech-trance`). Avoid spaces. Assume you may create new genre/album folders when absent.
 
 ## Lyrics Rules (`text.txt`)
 Use section headers: `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Drop]`, `[Outro]`.
 Optional performance cues in brackets, too: `[whispered]`, `[airy]`, `[belted]`, `[instrumental break]`.
-Target total word count: 80–120 (≤120). Keep lines concise; avoid overlong narrative.
+Target total word count: 120–180 (≤180). Keep individual lines concise while allowing for comprehensive storytelling; avoid overlong single verses.
+Lyrics should tell an engaging story that keeps the listener's attention throughout the song. Focus on compelling narratives, vivid imagery, and emotional progression that maintains interest from start to finish.
 Instrumental tracks: include a single `[Instrumental]` section or minimal atmospheric cues.
+Always consider the album's concept.md when writing lyrics to ensure thematic consistency and narrative coherence across the album.
 
 ## TTS Variant (`text-prompt.txt`)
 Clone `text.txt`, then transform technical / acronym / hard‑to‑pronounce tokens:
@@ -25,6 +30,16 @@ Clone `text.txt`, then transform technical / acronym / hard‑to‑pronounce tok
 - `JSON` → `Jay Son`
 - `CSV` → `See Ess Vee`
 Also expand years/numbers if clarity helps: `1999` → `nineteen ninety nine`. Maintain tags & section order.
+
+## Album Concept (`concept.md`)
+Each album requires a concept document at `{genre}/{album}/concept.md` that defines:
+- **Thematic Vision**: Overall narrative and conceptual framework
+- **Musical Style Consistency**: Genre, tempo, instrumentation, and production guidelines
+- **Narrative Arc**: How songs connect and progress through the album
+- **Key Themes**: Central ideas and motifs that run through all songs
+- **Lyrical Guidelines**: Specific direction for maintaining thematic coherence
+
+When creating songs, always reference the album's concept.md to ensure consistency in style, themes, and narrative progression.
 
 ## Style Prompt (`style.txt`)
 Use exactly this 4-part template (one per line or compact block):
@@ -57,10 +72,12 @@ FX: `sidechain pump`, `vinyl crackle`, `tape delay`, `gated reverb`
 
 ## Quality Checklist Before Commit
 - All three files exist and non-empty.
-- `text.txt` ≤120 words; sections & cues formatted correctly.
+- Album concept.md exists at {genre}/{album}/concept.md.
+- `text.txt` 120-180 words; sections & cues formatted correctly; tells engaging story.
 - `text-prompt.txt` matches structure; phonetic replacements applied.
 - `style.txt` uses template; no vague terms (`nice`, `cool`).
 - No style overloading (avoid >4 adjectives or conflicting genres).
+- Lyrics align with album concept and maintain thematic consistency.
 
 ## Edge / Decision Notes
 - If genre fusion ambiguous, pick dominant atmosphere (e.g., trance vs techno) and add one secondary flavor.
@@ -69,11 +86,12 @@ FX: `sidechain pump`, `vinyl crackle`, `tape delay`, `gated reverb`
 
 ## Adding a New Song (Recommended Flow)
 1. Decide genre + album + song slug; create folders.
-2. Draft `style.txt` (spine + color + BPM + 2–4 descriptors).
-3. Write lyrics (`text.txt`) with sections & cues.
-4. Derive phonetic variant (`text-prompt.txt`).
-5. Run checklist; adjust for brevity & clarity.
-6. Commit with message: `add <genre>/<album>/<song>`.
+2. Reference album concept.md at {genre}/{album}/concept.md for thematic guidance.
+3. Draft `style.txt` (spine + color + BPM + 2–4 descriptors) aligned with album concept.
+4. Write lyrics (`text.txt`) with sections & cues that tell an engaging story and align with album concept.
+5. Derive phonetic variant (`text-prompt.txt`).
+6. Run checklist; adjust for brevity & clarity.
+7. Commit with message: `add <genre>/<album>/<song>`.
 
 ## Request for Clarification
 If any convention (naming, phonetic mapping scope, tag vocabulary limits) seems unclear, ask user to refine. Otherwise proceed with assumptions above.
