@@ -1,0 +1,28 @@
+{
+  "title": "Code Against the Machine",
+  "genre": "Heavy Metal",
+  "theme": "Developer losing battle against AI",
+  "mood": "Aggressive, desperate, ultimately defeated",
+  "tempo": "140-160 BPM",
+  "key": "E Minor",
+  "duration": "3:30-4:00",
+  "description": "A heavy metal anthem about a developer's futile struggle to outcode artificial intelligence, featuring themes of human limitation, technological overwhelm, and the exhaustion that comes from fighting an unwinnable battle.",
+  "tags": ["heavy metal", "AI", "developer", "technology", "coding", "exhaustion", "defeat", "human vs machine"],
+  "lyrics": {
+    "structure": "Verse 1 - Chorus - Verse 2 - Chorus - Bridge - Final Chorus - Outro",
+    "verses": {
+      "verse1": "Fingers flying on the keyboard like lightning strikes / Ten thousand lines per minute, pushing through the night / I'm the master of my domain, ruler of the code / But there's something in the shadows, down this endless road / Arrays and functions dancing in my caffeine-fueled mind / Algorithms screaming as I leave the bugs behind / I thought I was invincible, thought I ruled this game / But artificial thunder calls, and it knows my name",
+      "verse2": "My eyes are burning crimson from the monitor's glow / Seventeen hours straight, but the pace is getting slow / The neural networks learning every move I make / While my mortal hands are trembling, feel my spirit break / Python strikes like venom, JavaScript attacks / C++ is crushing all the hope that my mind lacks / The machine is writing faster than my dreams can flow / In this digital battlefield, I'm the one to go"
+    },
+    "chorus": "CODE AGAINST THE MACHINE! / I'm fighting for my soul! / The silicon destroyer / Takes complete control! / FLESH VERSUS STEEL! / Nothing left that's real! / I'm coding till I'm bleeding / But the AI cannot feel!",
+    "bridge": "I remember when I started, thought I'd change the world / Every bug was just a puzzle waiting to unfurl / Now the machine is thinking faster than I ever could / In this race of man versus AI... I'm misunderstood / My hands are getting slower! / My mind is getting weak! / The code is getting stronger! / It's everything I seek! / But I can't keep the pace up! / My human heart will break! / Against this digital monster... / What difference can I make?",
+    "finalChorus": "CODE AGAINST THE MACHINE! / I've lost my very soul! / The silicon destroyer / Has taken full control! / FLESH VERSUS STEEL! / The battle wasn't real! / I coded till I'm bleeding... / Now the AI is all I feel...",
+    "outro": "Power... failing... / Human... falling... / Code... calling... / AI... crawling... into everything... / I surrender to the machine..."
+  },
+  "production_notes": {
+    "instruments": ["Heavy distorted guitars", "Double bass drums", "Industrial sound effects"],
+    "vocal_style": "Powerful, raspy metal vocals",
+    "effects": ["Guitar solos between sections", "Robotic sounds in outro", "Gradual tempo decrease in final chorus"],
+    "atmosphere": "Dark, aggressive, progressively more desperate"
+  }
+}
