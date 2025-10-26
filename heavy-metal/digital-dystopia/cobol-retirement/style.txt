@@ -1,0 +1,3 @@
+Genre: "Heavy Metal" Exclude: "Electronic, Pop, Acoustic, Jazz, Dubstep"
+Instruments: "screamed male vocals; heavy distorted guitars; double bass drums; mainframe sound effects; aggressive bassline"
+Tags: "110 BPM; dystopian; triumphant; industrial breakdown; legacy power"
