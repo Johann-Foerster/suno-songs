@@ -9,7 +9,7 @@ Coe Ball would rule digital age
 Legacy code now cunning
 
 [Chorus]
-Coe Ball retirement! (screamed)
+Coe Ball retirement! [screamed]
 Ancient wisdom required!
 Three old gods arise
 From their rocking chairs
@@ -23,7 +23,7 @@ Harold, Frank, and Dorothy
 Heroes from retirement
 
 [Chorus]
-Coe Ball retirement! (screamed)
+Coe Ball retirement! [screamed]
 Ancient wisdom required!
 Three old gods arise
 From their rocking chairs
@@ -31,15 +31,15 @@ Ninety years of scars
 To fix broken wars
 
 [Bridge]
-(whispered)
+[whispered]
 Procedure Division
-(building)
+[building]
 Working-Storage Section!
-(screamed)
+[screamed]
 MOVE ZERO TO ERROR-FLAG!
 
 [Drop]
-(instrumental breakdown)
+[instrumental breakdown]
 
 [Outro]
 Legends saved the day

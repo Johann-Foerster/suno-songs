@@ -1,5 +1,5 @@
 [Intro]
-(soft breathing)
+[soft breathing]
 Neural link active... welcome
 
 [Verse]
@@ -9,7 +9,7 @@ AI crafts my perfect dream
 Nothing's quite what it seems
 
 [Chorus] 
-Virtual cage! (screamed)
+Virtual cage! [screamed]
 Digital age!
 Reality fades
 In this box I stay
@@ -22,25 +22,25 @@ Keeps me docile, in control
 Body trapped, enslaved soul
 
 [Chorus]
-Virtual cage! (screamed)
+Virtual cage! [screamed]
 Digital age!
 Reality fades
 In this box I stay
 Paradise is lies!
 
 [Bridge]
-(whispered)
+[whispered]
 Nutrients drip, IV line
 Body weak, mind confined
-(building)
+[building]
 Can't remember real sky
 Prison cell... don't know why!
 
 [Drop]
-(breakdown)
+[breakdown]
 WAKE UP! BREAK FREE!
 
 [Outro]
-(defeated)
+[defeated]
 Login again, can't escape
 Virtual cage, my only fate

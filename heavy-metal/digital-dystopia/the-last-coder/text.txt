@@ -11,7 +11,7 @@ Dust on my IDE
 Depends on C
 
 [Chorus]
-Last coder! (screamed)
+Last coder! [screamed]
 Weight of world!
 Compile, pray
 Debug all day
@@ -26,22 +26,22 @@ Bleeding on keys
 Fix what bots can't see
 
 [Chorus]
-Last coder! (screamed)
+Last coder! [screamed]
 Weight of world!
 Compile, pray
 Debug all day
 Machines fail, flesh saves!
 
 [Bridge]
-(whispered)
+[whispered]
 Forgotten syntax
 Assembly burns
-(building)
+[building]
 Digital ashes
 Logic strikes!
 
 [Drop]
-(instrumental)
+[instrumental]
 
 [Outro]
 Systems online, reborn

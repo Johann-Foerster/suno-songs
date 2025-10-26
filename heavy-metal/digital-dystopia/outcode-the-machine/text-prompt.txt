@@ -1,5 +1,5 @@
 [Intro]
-(heavy breathing)
+[heavy breathing]
 Fingers on keys, battle begins
 Silicon vs flesh
 
@@ -10,7 +10,7 @@ See Pee You spinning, algorithms collide
 Human spirit breaking, nowhere to hide
 
 [Chorus]
-Outcode the machine! (screamed)
+Outcode the machine! [screamed]
 Fight digital dream!
 Falling behind
 Losing my mind
@@ -23,25 +23,25 @@ Neural networks learning, I'm dying
 Compilation failed, no use trying
 
 [Chorus]
-Outcode the machine! (screamed)
+Outcode the machine! [screamed]
 Fight digital dream!
 Falling behind
 Losing my mind
 Ay Eye's too fast, too clean
 
 [Bridge]
-(whispered)
+[whispered]
 Exhausted, powerless
 Future's not mine
-(building)
+[building]
 Keystrokes worthless
 Against machine design!
 
 [Drop]
-(instrumental breakdown)
+[instrumental breakdown]
 
 [Outro]
-(defeated)
+[defeated]
 Machine has won
 Coding days done
 Silicon reigns supreme
