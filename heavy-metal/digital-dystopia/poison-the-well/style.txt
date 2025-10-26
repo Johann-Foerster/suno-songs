@@ -1,0 +1,3 @@
+Genre: "Heavy Metal" Exclude: "Electronic, Pop, Acoustic, Jazz"
+Instruments: "screamed male vocals; distorted power chords; double bass drums; aggressive guitar solos; heavy bassline"
+Tags: "125 BPM; dark; sinister; aggressive breakdown; dystopian"
