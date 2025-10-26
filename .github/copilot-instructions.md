@@ -17,7 +17,7 @@ Directory naming: lowercase, hyphen-separated (`deep-house`, `tech-trance`). Avo
 ## Lyrics Rules (`text.txt`)
 Use section headers: `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Drop]`, `[Outro]`.
 Optional performance cues in brackets, too: `[whispered]`, `[airy]`, `[belted]`, `[instrumental break]`.
-Target total word count: 120–180 (≤180). Keep lines concise; avoid overlong narrative.
+Target total word count: 120–180 (≤180). Keep individual lines concise while allowing for comprehensive storytelling; avoid overlong single verses.
 Lyrics should tell an engaging story that keeps the listener's attention throughout the song. Focus on compelling narratives, vivid imagery, and emotional progression that maintains interest from start to finish.
 Instrumental tracks: include a single `[Instrumental]` section or minimal atmospheric cues.
 Always consider the album's concept.md when writing lyrics to ensure thematic consistency and narrative coherence across the album.
@@ -39,7 +39,7 @@ Each album requires a concept document at `{genre}/{album}/concept.md` that defi
 - **Key Themes**: Central ideas and motifs that run through all songs
 - **Lyrical Guidelines**: Specific direction for maintaining thematic coherence
 
-When creating songs, always reference the album's concept.md to ensure consistency in style, themes, and narrative progression. New albums should have their concept.md created before any songs are written.
+When creating songs, always reference the album's concept.md to ensure consistency in style, themes, and narrative progression. New albums should have their concept.md created before any songs are written. For existing albums without concept.md, create one based on existing songs' themes and styles before adding new songs.
 
 ## Style Prompt (`style.txt`)
 Use exactly this 4-part template (one per line or compact block):
