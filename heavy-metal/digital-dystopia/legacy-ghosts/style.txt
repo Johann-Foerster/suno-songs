@@ -1,0 +1,3 @@
+Genre: "Heavy Metal" Exclude: "Electronic, Pop, Acoustic, Jazz, Dubstep"
+Instruments: "screamed male vocals; heavy distorted guitars; double bass drums; mainframe sound effects; industrial bassline"
+Tags: "115 BPM; dark; dystopian; mechanical breakdown; corporate corruption"
