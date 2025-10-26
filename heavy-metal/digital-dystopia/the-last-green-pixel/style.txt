@@ -1,0 +1,3 @@
+Genre: "Heavy Metal" Exclude: "Electronic, Pop, Acoustic, Jazz, Trap"
+Instruments: "screamed male vocals; distorted power chords; double bass drums; aggressive guitar solos; heavy bassline; digital glitch effects"
+Tags: "125 BPM; dystopian; rebellious; digital uprising; nature reclaimed; shader corruption"
