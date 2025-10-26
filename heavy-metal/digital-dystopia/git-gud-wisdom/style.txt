@@ -1,0 +1,3 @@
+Genre: "Heavy Metal" Exclude: "Electronic, Pop, Acoustic, Jazz, Trap"
+Instruments: "wise deep male vocals; screamed vocals; distorted power chords; double bass drums; heavy bassline; melodic guitar solos"
+Tags: "125 BPM; dark; mentoring; wisdom; triumphant; dystopian; breakdown"
