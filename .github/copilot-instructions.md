@@ -13,7 +13,7 @@ Directory naming: lowercase, hyphen-separated (`deep-house`, `tech-trance`). Avo
 
 ## Lyrics Rules (`text.txt`)
 Use section headers: `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Drop]`, `[Outro]`.
-Optional performance cues in parentheses: `(whispered)`, `(airy)`, `(belted)`, `(instrumental break)`.
+Optional performance cues in brackets, too: `[whispered]`, `[airy]`, `[belted]`, `[instrumental break]`.
 Target total word count: 80–120 (≤120). Keep lines concise; avoid overlong narrative.
 Instrumental tracks: include a single `[Instrumental]` section or minimal atmospheric cues.
 
