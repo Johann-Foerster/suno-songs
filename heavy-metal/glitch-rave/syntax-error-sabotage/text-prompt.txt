@@ -1,0 +1,55 @@
+[Intro]
+[stuttered glitch effect]
+Deployment ready, countdown starts—
+Wait. Stop.
+
+[Verse]
+Three Ay Em, release queued, pipeline green
+Tests all passed, nothing left to see
+One typo hides, semicolon missing lurks
+Production breaks, whole world watches—
+Stop! Parse failed!
+
+[Chorus]
+Syntax error sabotage! [shouted]
+One character wrecked it all!
+Expected token, got rage!
+Line three-nineteen will not compile!
+[stutter beat]
+Build. Failed. Build. Failed.
+Rollback! Rollback now!
+
+[Verse]
+Blamed the intern, blamed the See Eye
+Blamed the framework, blamed the sky
+In nested function calls
+One missing comma breaks it all
+[fragmented]
+Stack—trace—points—to—me!
+
+[Chorus]
+Syntax error sabotage! [shouted]
+One character wrecked it all!
+Expected token, got rage!
+Line three-nineteen will not compile!
+[stutter beat]
+Build. Failed. Build. Failed.
+Rollback! Rollback now!
+
+[Bridge]
+[whispered]
+Code review said approved
+Linter passed, nothing moved
+[building intensity]
+But runtime screams the truth—
+Invalid Jay Son breaks through!
+
+[Drop]
+[heavy glitch breakdown with stop-start rhythm]
+
+[Outro]
+[defeated but darkly comic]
+Hotfix deployed, crisis ends
+One keystroke broke our best-laid plans
+Next time I'll check the diff again
+Syntax error sabotage—my friend
