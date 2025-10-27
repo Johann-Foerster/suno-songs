@@ -1,0 +1,47 @@
+[Intro]
+[alarm sirens]
+System call incoming
+Red lights spinning
+
+[Verse]
+Panic mode engaged, trapped in digital cage
+Every function screams, stack trace fills the page
+Ay Pee Eye timeout, memory leak grows wild
+Error floods cascade like a corrupted child
+
+[Chorus]
+Panic! Abort! [screamed]
+Kill the process, pull the cord!
+Panic! Abort!
+System failure, can't restore!
+
+[Verse]
+Null pointer everywhere, segmentation fault
+See Pee You melting down, this is my assault
+Exception handler broken, watchdog sleeps too late
+Core dump spreading out, sealing my fate
+
+[Chorus]
+Panic! Abort! [screamed]
+Kill the process, pull the cord!
+Panic! Abort!
+System failure, can't restore!
+
+[Bridge]
+[whispered]
+Panic room closing in
+No escape from chaos within
+[building]
+Every system call screams loud!
+Bridge collapses, servers drown!
+
+[Drop]
+[high-BPM chaotic breakdown]
+[glitch stutters]
+
+[Outro]
+[distorted]
+System purged
+All corrupted
+Panic won
+Emergency shutdown complete
