@@ -1,0 +1,55 @@
+[Intro]
+[whispered]
+Two A.M. Terminal glows
+Connection refused
+Again
+
+[Verse]
+Ping the server, nothing back
+Five-oh-three, gateway's cracked
+Retry logic wearing thin
+Exponential backoff begins
+Coffee's cold, eyes burn red
+SSH hanging by a thread
+
+[Chorus]
+Timeout tango! [screamed]
+Waiting on the host!
+Request-response limbo
+Connection's just a ghost
+Five more seconds!
+Spinning cursors lie!
+
+[Verse]
+TCP handshake incomplete
+SYN-ACK never meets
+Firewall rules or DNS?
+Network traces countess
+Load balancer's asleep
+While deadlines creep
+
+[Chorus]
+Timeout tango! [screamed]
+Waiting on the host!
+Request-response limbo
+Connection's just a ghost
+Five more seconds!
+Spinning cursors lie!
+
+[Bridge]
+[building]
+Thirty seconds
+[distorted]
+Sixty seconds
+[screamed]
+CONNECTION RESET!
+
+[Drop]
+[glitch breakdown]
+
+[Outro]
+[exhausted]
+Finally connected
+Deployment rejected
+Two A.M. ritual
+Never quite mythical
