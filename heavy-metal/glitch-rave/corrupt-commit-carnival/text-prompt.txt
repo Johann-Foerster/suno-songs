@@ -1,0 +1,54 @@
+[Intro]
+[glitchy]
+Git push at midnight
+Something's wrong
+Merge conflicts everywhere
+
+[Verse]
+One corrupt commit, master's gone insane
+Carousel of errors spinning through the main
+Clowns in the codebase, juggling Null refs
+Tightrope branches snapping, no safety nets left
+
+[Chorus]
+Corrupt commit carnival! [shouted]
+Binary circus burns!
+Ferris wheel exceptions
+Watch the repo turn!
+Neon calliope screaming
+Through distorted riffs
+Corrupt commit carnival
+Reality's adrift!
+
+[Verse]
+Funhouse mirror diffs reflecting broken states
+Rollercoaster stack trace through the data gates
+Cotton candy syntax, melting into bytes
+Ringmaster merge conflict under strobe lights
+
+[Chorus]
+Corrupt commit carnival! [shouted]
+Binary circus burns!
+Ferris wheel exceptions
+Watch the repo turn!
+Neon calliope screaming
+Through distorted riffs
+Corrupt commit carnival
+Reality's adrift!
+
+[Bridge]
+[rapid-fire]
+Revert! Revert!
+But it's too late
+Hard reset won't kill
+This twisted fate
+
+[Drop]
+[instrumental with carnival organ and heavy guitar]
+
+[Outro]
+[whispered]
+The show must go on
+In this digital big top
+Forever corrupted
+The carnival won't stop
