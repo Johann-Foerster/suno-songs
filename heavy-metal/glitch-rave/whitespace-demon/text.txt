@@ -1,0 +1,54 @@
+[Intro]
+[glitchy stutters]
+Invisible error
+System's terror
+
+[Verse]
+One space hiding in the code
+Build goes green, deploy the load
+Production screaming, five AM
+Hunt the ghost, can't find the stem
+UTF-8, invisible byte
+Everything fails overnight
+
+[Chorus]
+Whitespace demon! [shouted]
+Tiny fault cascading
+Whitespace demon! [processed]
+The system's degrading
+Can't see it, can't catch it
+But it's breaking everything
+
+[Verse]
+Diff shows nothing, tests all pass
+Silent killer, moving fast
+Stack trace points to phantom lines
+Regex fails a thousand times
+Copy-paste from Slack DM
+One wrong space condemned them
+
+[Chorus]
+Whitespace demon! [shouted]
+Tiny fault cascading
+Whitespace demon! [processed]
+The system's degrading
+Can't see it, can't catch it
+But it's breaking everything
+
+[Bridge]
+[whispered fast]
+Zero-width space
+Non-breaking ghost
+Hex editor chase
+[building]
+Found the host!
+
+[Drop]
+[glitch percussion breakdown]
+
+[Outro]
+[spoken with glitch effects]
+Fixed the space
+Rollback done
+But next time
+Could be anyone

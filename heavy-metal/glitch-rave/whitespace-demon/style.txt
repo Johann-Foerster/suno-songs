@@ -1,0 +1,3 @@
+Genre: "Nu-Metal Techno Fusion (Glitch Rave)" Exclude: "Acoustic, Pop, Jazz, Dubstep"
+Instruments: "downtuned guitar; processed shouted vocals; punchy kick; 909 hi-hats; neon arps; distorted bass; vocal chops"
+Tags: "142 BPM; glitch stutters; bitcrush fills; sidechain pump; darkly comic; chaotic"
