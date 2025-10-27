@@ -1,0 +1,51 @@
+[Intro]
+[alarm sounds]
+Three Ay Em, the monitors glow
+Pipeline breaks, red status row
+
+[Verse]
+Slack notification screaming loud
+Jenkins failed, alerts in the cloud
+Logs spewing gibberish lines
+Phantom errors, undefined signs
+Stack trace pointing nowhere real
+Hallucinated data reveal
+
+[Chorus]
+Midnight See Eye burn! [shouted]
+Watch the pipeline churn!
+Cascading failures light
+Dancing through the night
+Deploy it, fix it, break it, burn!
+
+[Verse]
+Docker daemon throwing fits
+Memory leaks in random bits
+Tests that passed now all explode
+Race conditions in the code
+Cache corrupted, build's insane
+Rollback fails again, again!
+
+[Chorus]
+Midnight See Eye burn! [shouted]
+Watch the pipeline churn!
+Cascading failures light
+Dancing through the night
+Deploy it, fix it, break it, burn!
+
+[Bridge]
+[whispered]
+Three Ay Em madness
+System's possessed
+[building intensity]
+No escape from this
+Automated stress!
+
+[Drop]
+[glitch stutters, instrumental break]
+
+[Outro]
+Pipeline green at last
+Crisis somehow passed
+Till tomorrow night
+Same chaotic flight
