@@ -1,0 +1,51 @@
+[Intro]
+[whispered]
+Promise pending
+Waiting, waiting
+
+[Verse]
+Made a vow in async chains
+Promise object holds the reins
+Then or catch, the future's unclear
+Callback heroes drawing near
+
+[Chorus]
+Promise rejected! [shouted]
+Faith disconnected!
+Some break under pressure, some rise
+Transformed to callbacks, no lies
+Promise raised! [screamed]
+From the haze!
+
+[Verse]
+Try-catch wrapped around your soul
+Resolve or reject, which takes control?
+Timeout errors, race conditions
+Failed vows and lost ambitions
+
+[Chorus]
+Promise rejected! [shouted]
+Faith disconnected!
+Some break under pressure, some rise
+Transformed to callbacks, no lies
+Promise raised! [screamed]
+From the haze!
+
+[Bridge]
+[building]
+Async await
+[whispered]
+Synchronous fate
+[glitch stutter]
+[screamed]
+Error cascade!
+
+[Drop]
+[instrumental breakdown with three-note glitch motif]
+
+[Outro]
+[triumphant]
+Finally block executed clean
+Promises kept, errors unseen
+From rejection, heroes made
+Callback warriors never fade
