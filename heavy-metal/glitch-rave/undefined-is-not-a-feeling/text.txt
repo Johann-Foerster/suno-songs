@@ -1,0 +1,47 @@
+[Intro]
+[whispered]
+Undefined... undefined...
+Where did you go?
+
+[Verse]
+Called your name, got null instead
+Empty reference in my head
+All my variables broken now
+TypeError screaming, don't know how
+
+[Verse]
+Memories corrupted, data's gone
+Undefined where love belonged
+Stack trace leading nowhere fast
+Every pointer to our past
+
+[Chorus]
+Undefined is not a feeling! [screamed]
+But it's all I'm left concealing!
+NullPointer to my heart!
+Undefined tore us apart!
+
+[Bridge]
+[building intensity]
+Check for null, I beg and plead
+Validation's all I need
+TypeError in every breath
+Undefined means living death
+
+[Drop]
+[glitch stutters]
+Cannot read property of... undefined!
+Cannot read property of... undefined!
+
+[Chorus]
+Undefined is not a feeling! [screamed]
+But it's all I'm left concealing!
+NullPointer to my heart!
+Undefined tore us apart!
+
+[Outro]
+[whispered, defeated]
+Try-catch can't save me now
+Undefined... somehow
+Error: reference not found
+Lost in null, no solid ground
