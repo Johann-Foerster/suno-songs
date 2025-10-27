@@ -1,0 +1,52 @@
+[Intro]
+[glitchy stutter]
+Query failed
+Connection lost
+Searching empty cache
+
+[Verse]
+I ping your heart but nothing returns
+Traced every route where memory burns
+GET requests to yesterday's database
+But your love's been wiped without a trace
+Timeout errors on every call
+Stack overflow watching it all
+
+[Chorus]
+Error four oh four! [screamed]
+Love not found anymore!
+Null pointer where you used to be
+Aitch Tee Tee Pee heartbreak crushing me
+Status: disconnected!
+
+[Verse]
+Indexing moments that don't exist
+Parsing fragments of your last kiss
+Cached emotions corrupted and torn
+Runtime exception every dawn
+Browser history of what we were
+Now just broken links that blur
+
+[Chorus]
+Error four oh four! [screamed]
+Love not found anymore!
+Null pointer where you used to be
+Aitch Tee Tee Pee heartbreak crushing me
+Status: disconnected!
+
+[Bridge]
+[building intensity]
+Server's down
+[whispered]
+No response code
+[screamed]
+Fatal exception thrown!
+
+[Drop]
+[instrumental glitch breakdown]
+
+[Outro]
+[distorted]
+Connection terminated
+Request denied
+Love dot ee ex ee has died
