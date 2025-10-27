@@ -1,0 +1,52 @@
+[Intro]
+[glitchy percussion]
+Wait your turn, wait your turn
+Semaphore returns!
+
+[Verse]
+Thread one knocks, thread two blocks
+Mew Teks lock, the counter mocks
+Race condition, ticking clock
+Deadlock danger, system shock
+Shared resource, single slot
+Competition getting hot
+
+[Chorus]
+Semaphore samba! [shouted]
+Dance of denial!
+Critical section, tension rising
+Access denied! [screamed]
+
+[Verse]
+Green light flashes, red light waits
+Acquire signal, lock the gates
+Thread sleep, thread wake
+Spinning circles, gonna break
+Busy waiting, See Pee You burns
+Nobody gets their turn
+
+[Chorus]
+Semaphore samba! [shouted]
+Dance of denial!
+Critical section, tension rising
+Access denied! [screamed]
+
+[Bridge]
+[whispered rapid-fire]
+Wait queue growing
+Contention showing
+Priority inversion
+System subversion
+[building intensity]
+Release the lock!
+Unblock the clock!
+
+[Drop]
+[percussion breakdown with glitch stutters]
+
+[Outro]
+[processed vocals]
+Finally granted
+Access implanted
+Semaphore samba
+Done
