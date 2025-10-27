@@ -1,0 +1,59 @@
+[Intro]
+[glitch stutter]
+One step too far
+Hunting in the dark
+
+[Verse]
+Zero to En minus one, but you wrote equals
+Off by one, the raptor stalks
+Array bounds shattered, memory bleeds
+Index out of range, it never stops
+Loop repeats, one iteration more
+Vicious cycle tearing through your core
+
+[Chorus]
+Off-by-one raptor! [screamed]
+Stalking through your code!
+One step further!
+Watch it overload!
+Relentless creature!
+Rhythmic and precise!
+Off-by-one raptor!
+Claims another life!
+
+[Verse]
+Midnight debugging, bloodshot eyes
+Fencepost error in disguise
+Count the boundaries, miss by one
+Predator circles, nowhere to run
+Buffer overflow, the hunt begins
+Silent killer strikes again
+
+[Chorus]
+Off-by-one raptor! [screamed]
+Stalking through your code!
+One step further!
+Watch it overload!
+Relentless creature!
+Rhythmic and precise!
+Off-by-one raptor!
+Claims another life!
+
+[Bridge]
+[whispered]
+Less than or equal?
+Greater than or equal?
+[building intensity]
+One wrong choice
+And the raptor feeds!
+
+[Drop]
+[heavy glitch breakdown]
+[vocal chop: "off by one"]
+
+[Outro]
+[distorted]
+Forever hunting
+One step too many
+The raptor wins
+Again and again
