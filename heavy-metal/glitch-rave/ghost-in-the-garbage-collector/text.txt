@@ -1,0 +1,51 @@
+[Intro]
+[whispered]
+Phantoms in the heap
+Dead references weep
+
+[Verse]
+Unreachable objects drift in the night
+Orphaned pointers, lost from sight
+Memory leaks like ghosts remain
+Dancing through the allocation chain
+
+[Chorus]
+Ghost in the garbage collector! [shouted]
+Phantom data, spectral sector!
+Mark and sweep but I still see
+Dead objects haunting memory!
+
+[Verse]
+Circular refs that never die
+Finalize methods, last goodbye
+Root set searching, can't break free
+Haunted by discontinued dependency
+
+[Chorus]
+Ghost in the garbage collector! [shouted]
+Phantom data, spectral sector!
+Mark and sweep but I still see
+Dead objects haunting memory!
+
+[Bridge]
+[processed vocals]
+Heap overflow
+Nowhere to go
+Stack trace glows
+System froze
+
+[Drop]
+[instrumental break with glitch stutters]
+
+[Chorus]
+Ghost in the garbage collector! [shouted]
+Phantom data, spectral sector!
+Mark and sweep but I still see
+Dead objects haunting memory!
+
+[Outro]
+[whispered fade]
+Forever cached
+Never trashed
+Phantom remains
+In memory chains
