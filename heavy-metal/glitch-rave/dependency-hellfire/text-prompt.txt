@@ -1,0 +1,52 @@
+[Intro]
+[whispered glitch]
+Package not found
+Package not found
+Error cascade
+
+[Verse]
+Pull request merged at midnight hour
+Upstream combusts with toxic power
+Recursive failures spiral down
+Dependencies burn the whole town
+En Pee Em install, watch it scream
+Breaking changes kill the dream
+
+[Chorus]
+Dependency hellfire! [screamed]
+Upstream's on fire!
+Transitive chains explode
+Version conflicts overload
+Smoky distorted drop!
+
+[Verse]
+Rollback won't save you now
+Every patch breaks somehow
+Left-pad apocalypse
+Semantic versioning eclipse
+Lock files corrupted, builds won't run
+Technical debt has just begun
+
+[Chorus]
+Dependency hellfire! [screamed]
+Upstream's on fire!
+Transitive chains explode
+Version conflicts overload
+Smoky distorted drop!
+
+[Bridge]
+[building intensity]
+Stack trace infinity
+[glitchy stutter]
+No-o-o compatible tree
+[screamed]
+Recursive destruction spree!
+
+[Drop]
+[heavy distorted breakdown with glitch stutters]
+
+[Outro]
+[processed vocals]
+Package dot Jay Son in flames
+Nothing remains
+Dependency hellfire burns eternal

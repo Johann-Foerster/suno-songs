@@ -1,0 +1,3 @@
+Genre: "Nu-Metal Glitch Rave" Exclude: "Acoustic, Pop, Jazz, Ballad"
+Instruments: "screamed processed vocals; downtuned guitar; distorted bass; punchy kick; 909 hi-hats; neon arps; glitch stutters"
+Tags: "143 BPM; darkly comic; long riser; bitcrush fills; sidechain pump; chaotic drop"
