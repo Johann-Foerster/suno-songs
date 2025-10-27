@@ -1,0 +1,47 @@
+[Intro]
+[distorted glitch]
+Zero, one, two, three
+[whispered] What comes after?
+
+[Verse]
+Looping through the array at midnight
+Pushed the bounds, no safety in sight
+Integer beast awakens from its sleep
+Demands its sacrifice, cuts me deep
+
+[Verse]
+Stepped beyond the final index line
+Null and void, crossed the design
+Runtime screaming, stack unwinding fast
+Memory corruption, breathe my last
+
+[Chorus]
+Index out of range! [shouted]
+Array's gone insane!
+Feed the beast its numbers
+Or feel the crashing pain
+Out of range! [chanted]
+Out of range!
+
+[Bridge]
+[rap-style, fast]
+Zero-based, you forgot the rule
+Off by one, you absolute fool
+Length minus one, the final key
+But you jumped past infinity
+
+[Drop]
+[instrumental break with glitch stutters]
+
+[Chorus]
+Index out of range! [shouted]
+Array's gone insane!
+Feed the beast its numbers
+Or feel the crashing pain
+Out of range! [chanted]
+Out of range!
+
+[Outro]
+[processed vocals]
+Caught, trapped, exception thrown
+The beast claims another throne
