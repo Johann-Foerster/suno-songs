@@ -1,0 +1,48 @@
+[Intro]
+[whispered]
+Five Ay Em, the build went green
+Scars and coffee in between
+
+[Verse]
+Patched through midnight, chasing edge cases
+Stack traces written on our faces
+Rolled back twice, but third time sealed
+The fragile victory revealed
+
+[Chorus]
+Hotfix afterparty! [screamed]
+Code and glory!
+Laughter through the panic mode
+Dancing on the broken code
+Victory we own!
+
+[Verse]
+Production down, the pagers screamed
+We conquered what the chaos dreamed
+Null Pointer finally confined
+Index Out Of Range aligned
+
+[Chorus]
+Hotfix afterparty! [screamed]
+Code and glory!
+Laughter through the panic mode
+Dancing on the broken code
+Victory we own!
+
+[Bridge]
+[building]
+Dawn light breaking
+[whispered]
+Team still shaking
+[screamed]
+Triumphant rave begins!
+
+[Drop]
+[glitch stutters into distorted breakdown]
+
+[Outro]
+[triumphant]
+Fragile win but standing tall
+Survived another system fall
+Hotfix hero scars we wear
+Until the next production scare
