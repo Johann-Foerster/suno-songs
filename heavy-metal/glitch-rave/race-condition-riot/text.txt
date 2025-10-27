@@ -1,0 +1,50 @@
+[Intro]
+[glitchy stutter]
+Thread one, thread two
+Who gets there first?
+
+[Verse]
+Mutex unlocked, spinning wild
+Two threads racing, unreconciled
+Reading shared state, writing blind
+Critical section left behind
+No semaphore, no lock to hold
+Chaos brewing, story told
+
+[Chorus]
+Race condition riot! [shouted]
+Threads collide in violent quiet
+Data corrupted, values flip
+Synchronization let it slip!
+
+[Verse]
+Context switching, CPU juggling fast
+Both threads thinking they're the last
+Increment counter, check then write
+Timing window, deadlock fight
+Stack unwinding, heaps colliding
+Error messages, no hiding
+
+[Chorus]
+Race condition riot! [shouted]
+Threads collide in violent quiet
+Data corrupted, values flip
+Synchronization let it slip!
+
+[Bridge]
+[whispered, building]
+Same memory address
+Both threads access
+Simultaneously
+Destructively
+
+[Drop]
+[distorted breakdown, glitch stutters]
+Collision! Explosion!
+Dancefloor corrosion!
+
+[Outro]
+[processed vocals]
+Mutex locked too late
+Program terminated
+Race condition sealed our fate
