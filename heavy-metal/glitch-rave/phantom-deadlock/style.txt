@@ -1,0 +1,3 @@
+Genre: "Nu-Metal Techno" Exclude: "Acoustic, Pop, Dubstep, Trap"
+Instruments: "processed vocals (whispered + screamed); downtuned guitar; distorted bass; punchy kick; 909 hi-hats; neon arps; glitch stutters"
+Tags: "143 BPM; dark; eerie calm to jagged panic; sidechain pump; bitcrush fills; haunting"
