@@ -1,0 +1,51 @@
+[Intro]
+[glitchy stutter]
+Return... return... nothing
+
+[Verse]
+Called your function in the dead of night
+Expected answers, got empty light
+Null pointer waiting at the end
+No value, no truth, no data to send
+
+[Verse]
+Checked for errors, parsed every line
+Debugger says the syntax is fine
+But you give nothing back to me
+An empty promise, void destiny
+
+[Chorus]
+WHERE'S MY RETURN?! [screamed]
+NULL IS ALL I GET!
+Absence in the code I wrote!
+NOTHING LEFT TO FETCH! [screamed]
+Type error burning through my brain!
+Function call in vain!
+The null return's lament!
+
+[Bridge]
+[processed, glitchy]
+Undefined behavior
+No exception thrown
+Silent failure
+I code alone
+
+[Chorus]
+WHERE'S MY RETURN?! [screamed]
+NULL IS ALL I GET!
+Absence in the code I wrote!
+NOTHING LEFT TO FETCH! [screamed]
+Type error burning through my brain!
+Function call in vain!
+The null return's lament!
+
+[Drop]
+[heavy distorted guitars]
+[bitcrushed vocal chops: "null... null... null..."]
+
+[Outro]
+[whispered, defeated]
+Return statement found
+But nothing's inside
+Empty parentheses
+Where my data died
