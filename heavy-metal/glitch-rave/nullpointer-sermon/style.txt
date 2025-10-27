@@ -1,0 +1,3 @@
+Genre: "Heavy Metal, Techno" Exclude: "Acoustic, Pop, Jazz, Trap"
+Instruments: "processed screamed vocals; downtuned power chords; distorted bass; punchy kick; 909 hi-hats; neon arps; glitch stutters"
+Tags: "142 BPM; darkly comic; sermon-like intro; cathartic drop; aggressive breakdown; sidechain pump"

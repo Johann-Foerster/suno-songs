@@ -1,0 +1,53 @@
+[Intro]
+[processed voice, sermon-like]
+Children of the code, hear me now
+Null Pointer speaks, you must bow
+
+[Verse]
+You invoked me with careless hands
+No validation, no safety plans
+Dereferenced in the dead of night
+Your negligence brought me to light
+Null check forgotten, assumptions made
+Now your runtime's about to fade
+
+[Chorus]
+Null Pointer Sermon! [screamed]
+You never learned them!
+Best practices ignored
+Your stack trace is my sword!
+Exception thrown!
+
+[Verse]
+Optional wrapper? You never tried
+Defensive code? Cast aside
+Edge cases dancing in your dreams
+Nothing's ever what it seems
+I am the ghost of errors past
+Your technical debt comes due at last
+
+[Chorus]
+Null Pointer Sermon! [screamed]
+You never learned them!
+Best practices ignored
+Your stack trace is my sword!
+Exception thrown!
+
+[Bridge]
+[building]
+But wait, there's hope
+[whispered]
+Try-catch block
+[screamed]
+Null-safe operator!
+Validation code!
+
+[Drop]
+[gritty guitar breakdown]
+
+[Outro]
+[cathartic, triumphant]
+Refactored clean, lesson learned
+Null Pointer's sermon earned
+Safe code flows, errors caught
+Battle won, wisdom bought
