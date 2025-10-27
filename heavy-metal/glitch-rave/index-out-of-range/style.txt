@@ -1,0 +1,3 @@
+Genre: "Nu-Metal Techno Fusion" Exclude: "Acoustic, Jazz, Folk, Ambient"
+Instruments: "shouted male vocals; downtuned guitar riffs; distorted bassline; 909 hats; supersaw arps; punchy kick with sidechain"
+Tags: "142 BPM; dark; aggressive; glitch stutters; bitcrush fills; euphoric drop"
