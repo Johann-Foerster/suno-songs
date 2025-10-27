@@ -1,0 +1,48 @@
+[Intro]
+[glitchy, distorted]
+Payload corrupted
+Request denied
+
+[Verse]
+Sent you perfect Jay Son, clean and tight
+But you returned errors in the night
+Four hundred, you said I'm wrong
+Malformed input, sang your song
+
+[Chorus]
+Bad request breakdown! [shouted]
+Aitch Tee Tee Pee betrayal!
+Four hundred, four oh one, four oh three!
+Server's turning on me!
+Error codes rally cry! [processed vocals]
+
+[Verse]
+Whitespace hidden, parser's confused
+Validation failed, trust abused
+Header missing, token's gone
+Protocol betrayed at dawn
+
+[Chorus]
+Bad request breakdown! [shouted]
+Aitch Tee Tee Pee betrayal!
+Four hundred, four oh one, four oh three!
+Server's turning on me!
+Error codes rally cry! [processed vocals]
+
+[Bridge]
+[building intensity]
+Status codes screaming
+[whispered]
+Network's deceiving
+[shouted]
+Cors blocking my dreams!
+
+[Drop]
+[instrumental breakdown with glitch stutters]
+
+[Outro]
+[distorted]
+Five hundred internal pain
+Request rejected again
+Bad request breakdown
+System's let me down
