@@ -1,0 +1,54 @@
+[Intro]
+[glitchy arps]
+Drip drip drip
+Memory slipping through the cracks
+[whispered]
+Watch the meters fall
+
+[Verse]
+Small leaks turn to ocean wide
+Stack frames bloating deep inside
+Garbage collector can't keep pace
+Heap corruption, losing race
+Pointer dangling in the void
+Resources slowly being destroyed
+
+[Chorus]
+Memory leak mirage! [shouted]
+Drowning in the byte barrage!
+Energy draining slow
+System status critical low
+Watch the numbers overflow
+
+[Verse]
+Midnight build starts breaking down
+Silent killer, wearing crown
+Reference counts keep climbing high
+Objects living, never die
+Profiler screaming warning signs
+Cascading through corrupted lines
+
+[Chorus]
+Memory leak mirage! [shouted]
+Drowning in the byte barrage!
+Energy draining slow
+System status critical low
+Watch the numbers overflow
+
+[Bridge]
+[whispered, building]
+Drain... drain... drain...
+Nothing left to reclaim
+[sudden energy]
+Restart protocol engaged!
+
+[Drop]
+[instrumental breakdown with glitch stutters]
+
+[Outro]
+[jolting, restored beat]
+Refilled and running clean
+Memory wiped like a machine
+Fresh start, the leak is patched
+System restored, detached
+Until the cycle starts again

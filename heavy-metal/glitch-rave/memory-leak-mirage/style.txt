@@ -1,0 +1,3 @@
+Genre: "Nu-Metal Techno Fusion" Exclude: "Acoustic, Jazz, Pop, Ballad"
+Instruments: "shouted/rap vocals; downtuned guitar; distorted bass; 909 percussion; neon arps; glitch stutters"
+Tags: "142 BPM; darkly comic; sidechain pump; jolting drop; bitcrush fills"
