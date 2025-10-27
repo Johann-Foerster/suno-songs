@@ -1,0 +1,55 @@
+[Intro]
+[glitchy stutter]
+Conflict detected
+HEAD diverged
+
+[Verse]
+[Dev A - aggressive]
+My refactor's clean, your code's a mess
+You broke the build with reckless stress
+Revert your changes, just confess!
+
+[Verse]
+[Dev B - defiant]
+Your logic's flawed, I fixed the bug
+You're stuck in patterns, pull the plug
+My tests all pass, don't be a thug!
+
+[Chorus]
+[both screamed, overlapping]
+Merge conflict tango!
+Dancing through the pain!
+Both sides won't let go!
+Blame and shame remain!
+
+[Verse]
+[Dev A - shouted]
+Three hundred lines of pure chaos
+You touched my module without cause
+
+[Verse]
+[Dev B - shouted]
+Your dead code blocks the modern way
+Refactoring saves the day!
+
+[Bridge]
+[whispered, alternating]
+Maybe... my approach
+Could use... your fix
+[building]
+Wait... let's review
+Together... we mix!
+
+[Drop]
+[instrumental, glitch breaks]
+git merge dash dash ours dash theirs!
+Collaborative resolve!
+[screamed together]
+Stronger code evolves!
+
+[Outro]
+[processed, harmonized]
+Conflicts make us better
+When we work as one
+Bruised but wiser devs
+The merge is done
