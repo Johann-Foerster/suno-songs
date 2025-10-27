@@ -1,0 +1,47 @@
+[Intro]
+[glitchy, stuttered]
+Exception thrown, no safety net
+Reckless calls, no regret
+
+[Verse]
+Wrote my code without a plan
+No exception handler, just ran
+Null Pointer crashed the whole damn thread
+Uncaught errors left me for dead
+
+[Chorus]
+Try! Catch! Handle it right! [shouted]
+Try! Catch! Fight through the night!
+Wrap your calls in safety blocks
+Graceful failure, wisdom unlocks
+Try! Catch! Never fall twice!
+
+[Verse]
+Stack trace taught me how to fail
+Finally clause, a cautious tale
+From careless throws to error grace
+Learning arc in every case
+
+[Chorus]
+Try! Catch! Handle it right! [shouted]
+Try! Catch! Fight through the night!
+Wrap your calls in safety blocks
+Graceful failure, wisdom unlocks
+Try! Catch! Never fall twice!
+
+[Bridge]
+[whispered, building]
+Caught exceptions
+Logged the pain
+Pattern learned through
+System strain
+
+[Drop]
+[distorted breakdown]
+Try! Catch! Finally! [screamed]
+Resilience coded permanently!
+
+[Outro]
+[processed vocals]
+No more crashes, graceful now
+Handled errors, took the vow
