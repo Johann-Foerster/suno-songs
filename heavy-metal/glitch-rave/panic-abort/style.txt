@@ -1,0 +1,3 @@
+Genre: "Nu-Metal Techno Glitch" Exclude: "Pop, Acoustic, Jazz, Country"
+Instruments: "screamed/processed vocals; downtuned guitar; distorted bass; 909 percussion; neon arps; punchy kick; glitch stutters"
+Tags: "145 BPM; chaotic drop; sidechain pump; bitcrush fills; panic; aggressive; fast riser"
