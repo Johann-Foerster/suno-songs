@@ -1,0 +1,52 @@
+[Intro]
+[reversed audio samples]
+Reading backward through the void
+
+[Verse]
+Buffer's draining, pointer's falling
+Memory leaks through the floor
+Negative index, system's stalling
+Can't read what isn't there anymore
+
+[Chorus]
+Buffer underflow! [pitched down]
+Playing in reverse, letting go
+Negative space, empty flow
+Underrun the show! [distorted]
+
+[Verse]
+Stream is starving, cache depleted
+Audio glitching, bits retreat
+Pitched down low, signal defeated
+Silence where the samples meet
+
+[Chorus]
+Buffer underflow! [pitched down]
+Playing in reverse, letting go
+Negative space, empty flow
+Underrun the show! [distorted]
+
+[Bridge]
+[whispered backwards]
+Nothing left to read
+[building]
+Starved for feed
+[screamed]
+Consuming the void between!
+
+[Drop]
+[reversed instrumental with pitch shifts]
+
+[Breakdown]
+[stutter effect]
+Un-un-under
+Flow-flow-flowing
+Back-back-backward
+Empty, empty, gone!
+
+[Outro]
+[fading reversed vocals]
+Drained the buffer dry
+Reversed until we die
+Playing nothing, amplify
+The space between the lie
