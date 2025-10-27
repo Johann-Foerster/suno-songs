@@ -1,0 +1,45 @@
+[Intro]
+[glitch stutters]
+Memory fracturing, core dumping now
+
+[Verse]
+Pointer derefence to nowhere land
+Kernel panic spreads through RAM
+Invalid access, system's crashing down
+Segmentation fault, the final sound
+
+[Chorus]
+[shouted]
+Symphony of shattered bytes!
+Orchestra plays corrupted nights!
+Memory bleeds in neon light!
+Seg fault crash! Delete! Rewrite!
+
+[Verse]
+Stack explodes in binary screams
+Register overflow, terminal dreams
+Address violation tearing through the heap
+Signal eleven, system can't sleep
+
+[Chorus]
+[shouted]
+Symphony of shattered bytes!
+Orchestra plays corrupted nights!
+Memory bleeds in neon light!
+Seg fault crash! Delete! Rewrite!
+
+[Bridge]
+[processed vocals]
+Core dumped beauty
+Orchestral fury
+Metal meets techno chaos
+Watch the system die with us
+
+[Drop]
+[long riser]
+[instrumental breakdown with glitch effects]
+
+[Outro]
+[whispered]
+Memory fades to static
+Segmentation... symphonic
