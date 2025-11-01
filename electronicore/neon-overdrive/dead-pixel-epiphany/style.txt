@@ -1,0 +1,3 @@
+Genre: "Electronicore, Metalcore" Exclude: "Trap, Acoustic, Folk, Country"
+Instruments: "clean female vocals (verses/chorus); whispered vocals (intro/bridge); aggressive synth-bass with sidechain pump; supersaw leads; tight palm-muted guitar chugs; djent breakdowns; 909 drums; neon pads"
+Tags: "138 BPM; introspective build to euphoric; long EDM riser; melodic; hypnotic; digital aesthetics"
