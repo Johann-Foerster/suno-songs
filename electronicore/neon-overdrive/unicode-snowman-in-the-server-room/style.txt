@@ -1,0 +1,3 @@
+Genre: "Electronicore" Exclude: "Acoustic, Jazz, Country, Folk"
+Instruments: "clean female vocals (verses); belted female vocals (chorus); shouted vocals (breakdown); aggressive synth bass; palm-muted guitar chugs; supersaw leads; 8-bit arps; 909 percussion"
+Tags: "138 BPM; emotional build; djent breakdown; uplifting; introspective; neon pads; sidechain pump"
