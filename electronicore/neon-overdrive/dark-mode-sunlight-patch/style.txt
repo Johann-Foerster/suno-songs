@@ -1,0 +1,3 @@
+Genre: "Electronicore, EDM, Metalcore" Exclude: "Acoustic, Jazz, Folk, Country"
+Instruments: "clean pop vocals (chorus); aggressive synth-bass with sidechain pump; palm-muted guitar chugs; 8-bit arpeggios; supersaw chords; 909 drums"
+Tags: "138 BPM; dark to bright progression; long EDM riser; emotional breakthrough; introspective verses with explosive drops"
