@@ -22,6 +22,16 @@ Lyrics should tell an engaging story that keeps the listener's attention through
 Instrumental tracks: include a single `[Instrumental]` section or minimal atmospheric cues.
 Always consider the album's concept.md when writing lyrics to ensure thematic consistency and narrative coherence across the album.
 
+## Bracket Formatting Requirement
+Every bracketed tag (section headers like `[Verse]` and performance or atmospheric cues like `[whispered]`, `[instrumental break]`) MUST appear alone on its own line. Do NOT embed bracketed cues inline within a lyric sentence.  
+Example (correct):  
+`[Verse]`  
+`Shadows crawl across the server room...`  
+Example (incorrect):  
+`Shadows crawl [whispered] across the server room...`  
+Action:  
+Move `[whispered]` to its own preceding or following line as appropriate.
+
 ## TTS Variant (`text-prompt.txt`)
 Clone `text.txt`, then transform technical / acronym / hard‑to‑pronounce tokens:
 - `HTML` → `Aitch Tee Em Ell`
@@ -78,6 +88,7 @@ FX: `sidechain pump`, `vinyl crackle`, `tape delay`, `gated reverb`
 - `style.txt` uses template; no vague terms (`nice`, `cool`).
 - No style overloading (avoid >4 adjectives or conflicting genres).
 - Lyrics align with album concept and maintain thematic consistency.
+ - All bracketed tags placed on their own lines (no inline `[cue]` inside lyric sentences).
 
 ## Edge / Decision Notes
 - If genre fusion ambiguous, pick dominant atmosphere (e.g., trance vs techno) and add one secondary flavor.
