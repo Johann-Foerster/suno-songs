@@ -1,0 +1,57 @@
+[Intro]
+[whispered]
+Three a.m., the screen glows dim
+Auto-save is mocking him
+
+[Verse]
+Linter's running, green checkmarks everywhere
+Code looks perfect, but I know it's bare
+Prettier formats, ESLint approves
+But underneath, my logic doesn't move
+Auto-fix hides what I cannot explain
+Messy functions wrapped in syntax chains
+
+[Chorus]
+[belted]
+Turn off the linter now!
+Let the raw truth show somehow!
+My comments scream what I won't say
+Spaghetti code, I pushed today!
+[screamed]
+Confession through the chaos!
+
+[Verse]
+Seven nested ifs make no sense
+Stack Overflow copy-paste fence
+TODO marks from months ago
+Variable names lead nowhere slow
+Tests pass green but mock it all
+This house of cards will fall
+
+[Chorus]
+[belted]
+Turn off the linter now!
+Let the raw truth show somehow!
+My comments scream what I won't say
+Spaghetti code, I pushed today!
+[screamed]
+Confession through the chaos!
+
+[Bridge]
+[whispered]
+Disable rules one by one
+[building]
+Watch the red flags come undone
+[screamed]
+Four hundred warnings light the night!
+My shame burns neon bright!
+
+[Drop]
+[instrumental breakdown]
+
+[Outro]
+[airy]
+Tomorrow I'll fix it all, I swear
+But tonight, I just don't care
+Auto-fix can save my face
+But can't erase this disgrace
