@@ -1,0 +1,3 @@
+Genre: "Electronicore Metalcore" Exclude: "Trap, Acoustic, Folk, Jazz"
+Instruments: "clean pop vocals (verses/outro); screamed vocals (breakdowns); aggressive synth bass; palm-muted guitar chugs; supersaw leads; 8-bit arpeggios; neon pads"
+Tags: "138 BPM; melancholic build; euphoric drop; hypnotic; vulnerable"

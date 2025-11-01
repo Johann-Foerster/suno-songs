@@ -1,0 +1,66 @@
+[Intro]
+[whispered]
+Cached version
+Stale data serves
+
+[Verse]
+Every mirror shows a ghost from yesterday
+CDN keeps serving who I used to be
+Edge nodes hold my smile from twenty-nineteen
+But the origin's been crying since then
+
+[Chorus]
+Purge request initiated
+Clear the cache, I'm suffocating
+Old reflections replicated
+Let the real me through, outdated!
+[screamed]
+Flush the system now!
+
+[Verse]
+Hit refresh a thousand times but still the same
+Geographic replicas of curated shame
+TTL expired but nobody knows
+The source has changed beneath the distributed shows
+
+[Chorus]
+Purge request initiated
+Clear the cache, I'm suffocating
+Old reflections replicated
+Let the real me through, outdated!
+[screamed]
+Flush the system now!
+
+[Bridge]
+[building]
+Headers say I'm fresh
+[whispered]
+But I'm not the same
+[clean]
+Point of presence fails
+Origin remains
+
+[Drop]
+[instrumental break]
+
+[Breakdown]
+[shouted]
+Invalidate!
+Propagate!
+Authenticate!
+Real state!
+
+[Chorus]
+Purge request initiated
+Clear the cache, I'm suffocating
+Old reflections replicated
+Let the real me through, outdated!
+[belted]
+New origin rising!
+
+[Outro]
+[airy]
+Cache-Control: no-store
+Vulnerable at the core
+No more perfect copies
+Just me, raw and free
