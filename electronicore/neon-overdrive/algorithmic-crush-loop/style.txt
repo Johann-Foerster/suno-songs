@@ -1,0 +1,3 @@
+Genre: "Electronicore" Exclude: "Acoustic, Folk, Jazz, Blues"
+Instruments: "clean pop vocals (verses/chorus); screamed breakdowns; synth bass with sidechain pump; djent guitar chugs; supersaw leads; 8-bit arpeggios; 909 percussion"
+Tags: "138 BPM; uplifting; romantic; euphoric drop; long riser; danceable"
