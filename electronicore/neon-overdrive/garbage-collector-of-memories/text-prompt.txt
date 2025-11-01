@@ -1,0 +1,65 @@
+[Intro]
+[8-bit arpeggio]
+Memory heap overflowing
+Time to clean the cache
+
+[Verse]
+Running through my mind at three Ay Em
+Deleting fragments, purging them
+Old photos, broken promises fade
+Mark and sweep, the choice I made
+Null pointers to your smile
+Free what hurt me for a while
+
+[Chorus]
+Garbage collector of memories!
+[clean pop hook]
+Freeing space but losing keys
+Dereferenced all the pain
+But joy got caught in the same chain
+Algorithm can't decide
+What to keep, what to hide
+
+[Verse]
+Scanning through emotional Ram
+Releasing objects, that's the plan
+But circular references remain
+Your laugh loops through my brain
+Tried to optimize my heart
+Tore the good and bad apart
+
+[Chorus]
+Garbage collector of memories!
+[clean pop hook]
+Freeing space but losing keys
+Dereferenced all the pain
+But joy got caught in the same chain
+Algorithm can't decide
+What to keep, what to hide
+
+[Breakdown]
+[djent rhythms]
+Null! Null! Null!
+[shouted]
+Segmentation fault!
+Lost! Lost! Lost!
+Memory's the cost!
+
+[Bridge]
+[whispered]
+Can't undo the cleanup now
+Happiness leaked somehow
+[building]
+Tried to free the hurt
+But deleted my own worth
+
+[Drop]
+[instrumental break]
+[supersaw leads]
+
+[Outro]
+[airy]
+Manual mode from now on
+Keep it all, right or wrong
+No more automatic deletion
+Just human imperfection

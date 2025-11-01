@@ -1,0 +1,3 @@
+Genre: "Electronicore, Techno Trance" Exclude: "Acoustic, Jazz, Folk, Country"
+Instruments: "clean pop vocals (chorus); shouted vocals (breakdown); aggressive synth bass; tight guitar chugs; 8-bit arpeggios; supersaw leads; 909 percussion"
+Tags: "140 BPM; euphoric chorus; djent breakdown; sidechain pump; melancholic; introspective"
