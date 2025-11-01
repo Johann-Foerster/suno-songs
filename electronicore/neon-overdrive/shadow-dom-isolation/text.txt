@@ -1,0 +1,54 @@
+[Intro]
+[8-bit arp]
+Encapsulated world inside
+
+[Verse]
+Built my fortress behind the DOM
+Scoped styles, hidden from the outside
+Private methods, no one can see
+Shadow root protecting me
+Components isolated, self-contained
+Events bubble up but no one's listening
+Emit my signals to the void
+They scroll past, completely destroyed
+
+[Chorus]
+Shadow DOM isolation
+Internal documentation
+I expose my API
+But the world just passes by
+Shadow DOM isolation
+No event delegation
+Broadcasting to the night
+But nobody's in sight
+
+[Verse]
+Custom elements perfectly designed
+Event listeners carefully defined
+dispatchEvent with all my might
+Console logs vanish in the night
+Polished interface, clean abstraction
+Still they choose no interaction
+
+[Breakdown]
+[shouted]
+I'm emitting now
+Can you hear me shout
+Breaking through the shadow
+But you're checking out
+
+[Chorus]
+Shadow DOM isolation
+Internal documentation
+I expose my API
+But the world just passes by
+Shadow DOM isolation
+Forever encapsulation
+Broadcasting alone tonight
+In my capsule, out of sight
+
+[Outro]
+[whispered]
+Encapsulated
+Isolated
+Deprecated in my shadow zone
