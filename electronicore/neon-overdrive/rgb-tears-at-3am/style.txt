@@ -1,0 +1,3 @@
+Genre: "Electronicore, Synthwave" Exclude: "Acoustic, Jazz, Folk, Country"
+Instruments: "clean female vocals (chorus); screamed vocals (breakdown); aggressive synth-bass with sidechain pump; palm-muted guitar chugs; supersaw leads; 8-bit arpeggios; 909 percussion"
+Tags: "138 BPM; melancholic building to cathartic; long riser before drop; neon pads; emotional contrast"
