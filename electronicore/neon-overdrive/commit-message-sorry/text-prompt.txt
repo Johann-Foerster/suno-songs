@@ -1,0 +1,63 @@
+[Intro]
+[whispered, nervous]
+Push to main, no review
+What could go wrong?
+
+[Verse]
+Junior dev, first week on the job
+Pressure mounting, can't take the mob
+Manager screaming, need output now
+Delete production, don't know how
+
+[Pre-Chorus]
+[building tension]
+One line of code
+One catastrophic load
+
+[Chorus]
+[belted, desperate]
+Sorry! Sorry! Sorry!
+Commit message "Sorry"
+Wiped the database, killed the Ay Pee Eye
+Business down, watching customers fly!
+Sorry! Sorry! Sorry!
+My Git commit story
+Zwei Millionen Euro, gone in a flash
+Sorry, sorry for the crash!
+
+[Verse]
+Slack exploding, red alerts scream
+Server room meltdown, broken dream
+Tried to rollback, made it worse
+Every keystroke feels like a curse
+
+[Bridge]
+[whispered, defeated]
+No unit tests
+No code review
+Just raw panic
+Breaking through
+
+[Breakdown]
+[aggressive, shouted]
+git push dash dash force!
+Disaster course!
+No going back!
+System under attack!
+
+[Chorus]
+[belted, desperate]
+Sorry! Sorry! Sorry!
+Commit message "Sorry"
+Wiped the database, killed the Ay Pee Eye
+Business down, watching customers fly!
+Sorry! Sorry! Sorry!
+My Git commit story
+Zwei Millionen Euro, gone in a flash
+Sorry, sorry for the crash!
+
+[Outro]
+[fading, regretful]
+Lesson learned, the hard way
+Never push on Friday
+Sorry
