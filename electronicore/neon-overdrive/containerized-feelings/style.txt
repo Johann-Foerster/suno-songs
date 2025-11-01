@@ -1,0 +1,3 @@
+Genre: "Electronicore" Exclude: "Acoustic, Country, Trap, Folk"
+Instruments: "clean female vocals (verses/chorus); aggressive synth-bass; palm-muted guitar chugs; supersaw leads; 909 drums; uncompressed raw metal screams (breakdown)"
+Tags: "140 BPM; dark to triumphant; isolated to explosive; djent breakdown; long buildup to raw climax"

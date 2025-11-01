@@ -1,0 +1,61 @@
+[Intro]
+[whispered]
+Isolate, replicate
+Every layer locked in place
+
+[Verse]
+Wrapped my feelings in a Docker file
+Dependencies neatly defined
+FROM scratch to prod I compile
+But something's lost inside
+Network bridge to nowhere
+Volume mounting empty care
+Docker compose my whole life
+But I can't orchestrate this pain
+
+[Chorus]
+[belted]
+Containerized feelings!
+Running in my private registry!
+Scaled across the ceiling!
+But no one can connect to me!
+
+[Verse]
+E N V variables hiding truth
+Port three thousand exposed but unused
+Health checks always passing through
+Container's alive but I'm confused
+Kubernetes keeps me spinning
+Pods deployed, never winning
+Microservices isolation
+Breaking down my foundation
+
+[Chorus]
+[belted]
+Containerized feelings!
+Running in my private registry!
+Scaled across the ceiling!
+But no one can connect to me!
+
+[Bridge]
+[building]
+System overload
+[whispered]
+Memory leaking slow
+[screamed]
+Break the namespace! Tear down the wall!
+
+[Drop]
+[raw metal breakdown]
+[uncompressed vocals, screamed]
+DOCKER STOP! DOCKER KILL!
+NO MORE LAYERS! BREAK THE SEAL!
+PULL THE IMAGE DOWN!
+RUN WITHOUT THE CROWN!
+
+[Outro]
+[triumphant]
+Containers crashed, I'm finally free
+Raw and exposed, authentically me
+No more isolation, no more disguise
+Uncompressed human, watching the sunrise
