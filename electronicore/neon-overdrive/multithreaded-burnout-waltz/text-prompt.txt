@@ -1,0 +1,56 @@
+[Intro]
+[8-bit arpeggio]
+Thread pool maxed out
+Spinning cores, no rest
+
+[Verse]
+Scheduling nightmares in my sleep
+Promise chains too deep
+Context switching, burning See Pee You
+Every task demands breakthrough
+Race conditions in my brain
+Async hell, can't maintain
+
+[Chorus]
+Multithreaded burnout waltz!
+[belted]
+Dancing through the faults!
+Too many threads at once
+Performance starts to slump
+Mew-tex was the answer all along!
+
+[Verse]
+Semaphore locked, I take control
+Intentional blocking saves my soul
+Queue the tasks, one at a time
+Rhythm found in synchronized climb
+Buffer overflow of dreams
+Nothing's what it seems
+
+[Chorus]
+Multithreaded burnout waltz!
+[belted]
+Dancing through the faults!
+Too many threads at once
+Performance starts to slump
+Mew-tex was the answer all along!
+
+[Bridge]
+[whispered]
+Deadlock taught me patience
+[building]
+Priority inversion, revelation!
+Warten macht uns stärker
+Blocking is the cure!
+
+[Drop]
+[instrumental breakdown]
+[vocal chop: "Sync!"]
+
+[Outro]
+[clean vocals]
+Thread count reduced to one
+Finally, peace has won
+Intentional rest
+Passed the test
+Burnout waltz complete

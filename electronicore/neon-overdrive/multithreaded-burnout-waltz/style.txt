@@ -1,0 +1,3 @@
+Genre: "Electronicore, Djent" Exclude: "Acoustic, Jazz, Ambient, Trap"
+Instruments: "clean female vocals (verses); belted vocals (chorus); aggressive synth-bass; tight palm-muted guitar chugs; 8-bit arpeggios; supersaw leads; 909 percussion; vocal chops"
+Tags: "142 BPM; euphoric drop; syncopated breakdown; hypnotic; sidechain pump; introspective verses"
