@@ -1,0 +1,3 @@
+Genre: "Electronicore Metalcore" Exclude: "Acoustic, Jazz, Trap, Dubstep"
+Instruments: "clean pop vocals (verses/chorus); screamed vocals (breakdowns); aggressive synth-bass with sidechain pump; tight drop-tuned guitar chugs; supersaw chords; 8-bit arpeggios; 909 percussion"
+Tags: "140 BPM; euphoric; self-reflective; ironic; long build-up; djent breakdown; neon aesthetic"
