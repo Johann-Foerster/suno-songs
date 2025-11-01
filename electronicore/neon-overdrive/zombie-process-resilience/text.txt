@@ -1,0 +1,68 @@
+[Intro]
+[8-bit arpeggio]
+Thread won't terminate
+SIGKILL can't penetrate
+
+[Verse]
+Zombie processes haunting my system space
+Parent died but children leave no trace
+Memory leaks dripping through the night
+Kill dash nine, but they hold on tight
+
+[Pre-Chorus]
+[building]
+Force quit fails
+Buffer overflows
+Neon trails
+But nothing goes
+
+[Chorus]
+[explosive]
+Zombie process resilience!
+Dance through the defiance!
+Graceful shutdown sequence now
+Breaking through the silence!
+
+[Verse]
+Stack overflow in my CPU dreams
+Orphaned threads bursting at the seams
+Deadlock dancing in the kernel core
+Can't escape what they're waiting for
+
+[Breakdown]
+[whispered]
+Wait for signal
+[shouted]
+Interrupt denied!
+[whispered]
+Clean the cycle
+[shouted]
+Nothing died!
+
+[Bridge]
+[ambient interlude]
+Patience codes the answer
+Graceful close the dancer
+Let them fade in peace
+System finds release
+
+[Chorus]
+[explosive with 8-bit motif]
+Zombie process resilience!
+Dance through the defiance!
+Graceful shutdown sequence now
+Breaking through the silence!
+
+[Drop]
+[djent breakdown]
+SIGTERM!
+Wait state!
+Exit clean!
+Terminate!
+
+[Outro]
+[fading]
+Thread released to digital sky
+Graceful death, no forced goodbye
+Zombie laid to rest at last
+Future freed from broken past
