@@ -1,0 +1,3 @@
+Genre: "Schlager Folk Metal, Bavarian Polka into Melodic Heavy Metal" Exclude: "Electronic, Trap, Dubstep, Acoustic Ballad"
+Instruments: "warm baritone vocals (German); accordion intro motif; tuba oompah; distorted twin guitars drop D; double-kick bursts; gang shouts; cowbell accents"
+Tags: "124 BPM folk → 104 BPM metal breakdown; playful watchmaker precision; stomping rhythm; cheeky to intense; clockwork foley (ticking gears)"
