@@ -1,0 +1,67 @@
+[Intro]
+[folk stomp]
+[accordion]
+Am Marktplatz steht sein Gerüst
+Farbtöpfe bunt gemischt
+
+[Verse]
+Der Fassadenmaler kommt heran
+Knöpfe hier und Menüs da
+Polka-Lächeln im Gesicht
+Er malt was niemand sieht nicht
+
+[Pre-Chorus]
+"Wie lang braucht dieser Button noch?"
+[whispered]
+Sechs Monate, sagt er doch
+Schatten, Rundung, jedes Pixel
+Jedes Detail wird zum Zwickel
+
+[Chorus]
+[metal break]
+Fassadenmaler der UI!
+[screamed]
+Nächtliche Pixeljagd vorbei!
+Nur noch ein Pixel, nur noch ein Grad!
+Die Marktfront wird zur Schlacht!
+Gitarren grollen, Farben schreien!
+Kann nie perfekt genug sein!
+
+[Verse]
+Tagsüber pinselt er gemütlich
+Doch Mitternacht macht ihn unruhlich
+Perfektionswahn nimmt überhand
+
+[Pre-Chorus]
+[building]
+Ein Pixel links, ein Pixel rechts
+Browser-Test in jedem Land
+
+[Chorus]
+[metal break]
+Fassadenmaler der UI!
+[screamed]
+Nächtliche Pixeljagd vorbei!
+Nur noch ein Pixel, nur noch ein Grad!
+Die Marktfront wird zur Schlacht!
+Gitarren grollen, Farben schreien!
+Kann nie perfekt genug sein!
+
+[Bridge]
+[whispered watch]
+Inspektor-Tool leuchtet hell
+Design-System als Quell
+[shouted]
+Komponenten überall!
+Refactor ist sein Schall!
+
+[Breakdown]
+[instrumental stomp to chug]
+
+[Outro]
+[folk returns]
+Am Morgen steht die Fassade pracht
+Der Maler hat's vollbracht
+Bis zum nächsten Feature-Wunsch
+[triumphant]
+Dann malt er wieder im Bunsch!
