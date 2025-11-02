@@ -15,6 +15,7 @@ Kein Ersatz im ganzen Maschinensaal
 Panik steigt, die Lage wird fatal
 
 [Chorus]
+[desperate]
 Frakturierter Riemen bricht!
 Kathedrale ohne Licht!
 Daten sterben, Lochkarten brennen!
@@ -35,10 +36,11 @@ Motor brummt, die Relais schlagen wieder
 Leben kehrt zurück in stählerne Glieder
 
 [Chorus]
-Frakturierter Riemen bricht!
-Kathedrale ohne Licht!
-Daten sterben, Lochkarten brennen!
-Muss die Maschine retten, muss sie retten!
+[triumphant]
+Frakturierter Riemen hält!
+Kathedrale wieder erhellt!
+Daten leben, Lochkarten drehen!
+Hab die Maschine gerettet, werd sie retten!
 
 [Outro]
 [triumphant mechanical march]
