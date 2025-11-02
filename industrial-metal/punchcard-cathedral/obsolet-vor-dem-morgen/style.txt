@@ -1,0 +1,3 @@
+Genre: "Industrial Metal Steampunk" Exclude: "Pop, Trap, Dubstep, Acoustic"
+Instruments: "commanding baritone vocals (German); downtuned palm-muted guitar; analog saw drones; piston kick; anvil hits; card punch flutter; brass-like synth swells"
+Tags: "95 BPM; melancholic stomp; mechanical breakdown section; gated reverb; saturated midrange; fading grandeur"
