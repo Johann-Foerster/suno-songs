@@ -1,0 +1,3 @@
+Genre: "Schlager Folk Metal" Exclude: "Trap, Electronic Dance, Pop, Acoustic Ballad"
+Instruments: "warm baritone vocals; accordion riff motif; tuba; clarinet; distorted twin guitars drop D; double-kick bursts; gang shouts; brass section"
+Tags: "120 BPM folk to 100 BPM metal breakdown; playful to intense; snare press roll transition; syncopated triplet accent; village satire"
