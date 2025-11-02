@@ -1,0 +1,3 @@
+Genre: "Schlager Folk transitioning to Melodic Heavy Metal" Exclude: "Electronic, Dubstep, Trap, Acoustic ballad"
+Instruments: "warm baritone vocals with wink; accordion; tuba; oompah brass; distorted twin guitars drop D; double-kick bursts; gang shouts; office foley (keyboard clacks)"
+Tags: "122 BPM folk into 104 BPM metal; playful to intense; code review satire; accordion gliss into guitar chug; German lyrics"
