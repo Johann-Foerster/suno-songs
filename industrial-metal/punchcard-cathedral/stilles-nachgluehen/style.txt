@@ -1,0 +1,3 @@
+Genre: "Industrial Metal, Steampunk" Exclude: "Trap, Dubstep, Pop, Acoustic"
+Instruments: "commanding baritone vocals; downtuned guitars; anvil hits; steam hiss; clockwork ticks; brass-like synth swells; hydraulic pulses"
+Tags: "92 BPM; melancholic revelation; mechanical shutdown; gated reverb; somber majesty; whispered bridge"
