@@ -1,0 +1,61 @@
+[Intro]
+[whispered watch]
+Laterne glüht im Serverraum
+Schatten wandern wie im Traum
+
+[Verse]
+Nachtwächter zieht durchs Gildendorf
+Prüft jeden Port und jeden Torf
+Akkordeon summt ganz leise mit
+Während ich mach' die Runde Schritt für Schritt
+Logfiles flackern, Spuren tauchen auf
+Verdächtig ist der letzte Lauf
+
+[Pre-Chorus]
+[building tension]
+Firewall-Glocken läuten schon
+Etwas stimmt nicht, welch' Spott und Hohn
+Patches stapeln sich wie Stroh
+Mauern bauen, sowieso!
+
+[Chorus]
+[metal break]
+Nachtwache der Sicherheit!
+Gitarren-Mauern, kampfbereit!
+Jeder Zugang wird versperrt
+Bis nichts mehr läuft, nichts mehr fährt!
+Vollständige Sicherheit erreicht
+Wenn endlich niemand mehr entweicht!
+
+[Verse]
+Bug-Reports wie Schatten zieh'n
+Patches müssen sofort gedieh'n
+Jede Lücke wird vermauert fest
+Kein Angriff wird hier zugelassen, Rest!
+Audit-Listen werden länger nur
+Security First ist unsre Schwur!
+
+[Chorus]
+[metal break]
+Nachtwache der Sicherheit!
+Gitarren-Mauern, kampfbereit!
+Jeder Zugang wird versperrt
+Bis nichts mehr läuft, nichts mehr fährt!
+Vollständige Sicherheit erreicht
+Wenn endlich niemand mehr entweicht!
+
+[Bridge]
+[whispered]
+Totenstille im System
+[building]
+Perfekt geschützt, doch unbequem
+[shouted]
+Niemand kommt mehr rein noch raus
+Die Arbeit stirbt im sichren Haus!
+
+[Outro]
+[folk stomp]
+Laterne aus, die Wacht ist still
+Mission erfüllt, ganz wie ich's will
+Sicherheit hat gesiegt heut' Nacht
+Keiner arbeitet mehr, gut gemacht!
