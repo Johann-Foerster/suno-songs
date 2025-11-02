@@ -1,0 +1,3 @@
+Genre: "Schlager Folk Metal, Bavarian Folk to Melodic Heavy Metal" Exclude: "Electronic, Trap, Dubstep, Acoustic Only"
+Instruments: "accordion riff motif; oompah brass; distorted twin guitars drop D; double-kick bursts; convivial baritone with half-shouted melodic bark; gang shouts"
+Tags: "122 BPM folk to 104 BPM breakdown; gemütlich to explosive; snare roll transition; forge metaphor; backend developer"

@@ -1,0 +1,49 @@
+[Intro]
+[folk stomp]
+In der Tiefe, wo die Rohre singen
+Backend-Schmiede lässt die Hämmer klingen
+
+[Verse]
+[accordion lead]
+Gemütlich braut er seine Datenmash
+Im Kellerraum, wo Server stehn
+Saubere Leitungen, Schicht für Schicht
+Der Backend-Meister kennt die Pflicht
+
+[Verse]
+[brass joins]
+Jeder Endpoint, präzis geschmiedet
+Ah Pee Eye-Tore, gut bedient
+Er gießt die Logik in die Form
+Hält das System bei jedem Storm
+
+[Pre-Chorus]
+[building tension]
+Doch tief im Keller, altes System
+Legacy-Code, rostig und schwer
+Es knarzt und raucht im dunklen Eck
+Funken sprühen—was ist sein Zweck?
+
+[Chorus]
+[metal break]
+Explosion in der Schmiede!
+Backend-Schichten brechen auf!
+Rostiger Code zerplatzt im Feuer
+Hammer fliegt, der Forge läuft!
+
+[Bridge]
+[half-shouted]
+Refactoring! Migration!
+Durch die Flammen, neue Foundation!
+Schicht um Schicht wird neu gebaut
+Backend-Held hat nicht verzagt!
+
+[Drop]
+[instrumental breakdown]
+
+[Outro]
+[folk returns]
+Wieder Ruhe im Kellerraum
+Backend-Schmiede, kleiner Traum
+Frischer Code in neuen Rohren
+Datenfluss ist neugeboren
