@@ -1,0 +1,61 @@
+[Intro]
+[folk stomp]
+Fässer rollen durch die Gassen
+Version drei Punkt eins Punkt zwei
+
+[Verse]
+Jongleure werfen lachend Nummern
+Bunte Fässer, Gold und Feuer
+Jedes Fass trägt seine Ladung
+Pipeline singt im frohen Takt
+Deployment Walzer dreht sich schneller
+Alles läuft nach Schema Plan
+
+[Pre-Chorus]
+[accordion rise]
+Doch ein Ventil beginnt zu klemmen
+Dampf zischt aus der alten Naht
+Logs ertönen wie Alarme
+Rollback kommt zu spät
+
+[Chorus]
+[metal break]
+Fass der Deploys bricht entzwei!
+Wiederherstellung scheitert frei!
+Server brennen, Chug-Riffs dröhnen
+Koordiniert ins Chaos stürzen!
+Fass der Deploys DevOps!
+
+[Verse]
+Monitoring blinkt rot und gelb
+Container kippen um
+Kubernetes tanzt wild im Kreis
+Orchestrierung bricht zusammen
+Sie kämpfen durch die Feuer Nacht
+Mit Skripten und mit Mut
+
+[Chorus]
+[metal break]
+Fass der Deploys bricht entzwei!
+Wiederherstellung scheitert frei!
+Server brennen, Chug-Riffs dröhnen
+Koordiniert ins Chaos stürzen!
+Fass der Deploys DevOps!
+
+[Bridge]
+[whispered watch]
+Backup liegt im Keller tief
+[building]
+Notfall Plan wird aktiviert
+[shouted]
+Hochfahren jetzt!
+
+[Drop]
+[instrumental breakdown]
+
+[Outro]
+[folk return]
+Fässer rollen wieder rund
+Version drei Punkt eins Punkt drei
+Gilde lacht nach harter Schlacht
+DevOps Feuer niemals erlischt
