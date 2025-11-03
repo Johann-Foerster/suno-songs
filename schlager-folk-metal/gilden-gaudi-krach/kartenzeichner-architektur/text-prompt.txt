@@ -1,0 +1,57 @@
+[Intro]
+[folk stomp]
+Der Planer rollt das Pergament aus
+Dorfbewohner nicken, schunkeln zum Applaus
+
+[Verse]
+Karten zeichnen auf dem Marktplatz Stand
+Jede Schicht, jeder Layer, alles Hand in Hand
+Module hier, Komponenten da
+Die Architektur ist wunderbar
+
+[Pre-Chorus]
+Doch warte mal, hier passt was nicht
+Die Abhängigkeit hat zu viel Gewicht
+Abstraktion über Abstraktion gestapelt hoch
+Wie soll man das deployen noch?
+
+[Metal Break]
+[heavy distortion]
+
+[Chorus]
+Zu komplex! Zu genial!
+Die Struktur ist monumental!
+Konfliktlinien tauchen auf
+Niemand stoppt den wilden Lauf!
+Das Design schlägt Funken, brennt
+Doch keiner es zu Ende dennt!
+
+[Verse]
+Im Schmiedehammer-Rhythmus zeigt er sein Konzept
+Jeder Pfeil, jede Box perfekt geklebt
+Datenfluss wie Wasserfall im Plan
+Doch die Realität hält nicht mehr stand
+
+[Bridge]
+[whispered reflection]
+Pergamentrollen stapeln sich meterhoch
+Die Lösung liegt im Detail, sagen sie noch
+Aber Integration schreit nach Vereinfachung jetzt
+
+[Metal Break]
+[explosive riff]
+
+[Chorus]
+Zu komplex! Zu genial!
+Die Struktur ist monumental!
+Konfliktlinien tauchen auf
+Niemand stoppt den wilden Lauf!
+Das Design schlägt Funken, brennt
+Doch keiner es zu Ende dennt!
+
+[Outro]
+[folk return]
+Der Architekt rollt wieder ein
+Nächstes Mal wird's einfacher sein
+Die Gilde klatscht, die Lehre klar
+Manchmal ist weniger wunderbar
