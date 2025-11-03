@@ -1,0 +1,61 @@
+[Intro]
+[folk stomp]
+Der Tanzmeister ruft, die Gilde im Kreis
+Sprint beginnt mit Fleiß
+
+[Verse]
+Im Dorfplatz steht der Meister, Glocke klingt
+Er zählt die Schritte, Tanz gelingt
+Daily Standup, alle im Karree
+Planning, oh je!
+
+[Pre-Chorus]
+Doch halt! Ein Blocker stolpert rein
+Die Figur bricht, kann nicht sein
+Refinement, Retro, Review im Takt
+Noch ein Meeting, Pakt!
+
+[Chorus]
+[metal break]
+Sprint Tanzmeister Scrum!
+Die Deadline dreht sich um!
+Meetings ohne End'
+Niemand mehr was schafft, niemand rennt!
+Koordination wird zur Last
+Wer tanzt noch, wenn verpasst?
+
+[Verse]
+Backlog Grooming, Stakeholder da
+Blocker fort und fort, nah
+Die Schritte schwer, Rhythmus kracht
+Nur geredet Tag und Nacht
+
+[Pre-Chorus]
+Der Takt verlangsamt, Druck wird schwer
+Akzente fallen, Deadline näher
+Noch 'ne Sync, noch 'ne Align
+Tanzfigur zerbricht an Termin-Line
+
+[Chorus]
+[metal break]
+Sprint Tanzmeister Scrum!
+Die Deadline dreht sich um!
+Meetings ohne End'
+Niemand mehr was schafft, niemand rennt!
+Koordination wird zur Last
+Wer tanzt noch, wenn verpasst?
+
+[Bridge]
+[whispered]
+Gildenbanner sinkt herab
+Kein Fortschritt im Sprint-Grab
+[building]
+Der Meister ruft verzweifelt laut
+Doch keiner hat mehr was gebaut!
+
+[Outro]
+[folk stomp returns]
+Die Glocke läutet, Sprint ist aus
+Nächster Kreis, gleiches Haus
+Der Tanzmeister lacht, von vorn
+Im ewigen Meeting-Dorn
