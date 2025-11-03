@@ -1,0 +1,53 @@
+[Intro]
+[folk stomp]
+[accordion riff]
+
+[Verse]
+Im Gildenrat versammelt sich die Runde
+Jeder kriegt sein Pull Request zur Stunde
+Höflich nicken, freundlich kommentieren
+Keiner will den anderen verlieren
+
+[Pre-Chorus]
+[playful]
+Kleine Änderung hier, kleines Wort dort
+Alles wirkt so nett am Gildenhof
+
+[Chorus]
+[metal break]
+[gang shout]
+Looks Good To Me!
+Aber keiner schaut genau hin!
+Merge Konflikte warten tief drin!
+Looks Good To Me!
+Die Wahrheit brennt und keiner sieht!
+
+[Verse]
+Der Backend schreibt, der Frontend prüft
+Jeder hofft, dass niemand tiefer grüft
+QA nickt und scrollt schnell durch den Code
+Security sagt ja zur Merge-Note
+Die Architektin schweigt mit einem Lächeln
+Und DevOps wird die Fehler später fächeln
+
+[Bridge]
+[whispered]
+Verborgene Spannungen
+[building]
+Krachen jetzt hervor
+[screamed]
+Niemand mag Reviews!
+
+[Breakdown]
+[instrumental metal riff]
+[gang shout]
+LGTM! LGTM!
+Shipping ohne Test!
+LGTM! LGTM!
+Hoffnung ist der Rest!
+
+[Outro]
+[folk return]
+[accordion]
+Zurück zur Runde, fröhlich und vereint
+Bis der nächste Merge uns alle wieder quält
