@@ -1,0 +1,3 @@
+Genre: "Schlager Folk Metal" Exclude: "Electronic, Dubstep, Trap, Jazz"
+Instruments: "warm baritone vocals with gang shouts; accordion; oompah brass; distorted drop-D guitars; double-kick drums; tuba; cowbell"
+Tags: "120 BPM folk intro; 100 BPM metal breakdown; uplifting then aggressive; folk-to-metal pivot; playful German workplace satire"
