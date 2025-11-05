@@ -1,0 +1,3 @@
+Genre: "Industrial Metal, Steampunk" Exclude: "Pop, Trap, Acoustic, Dubstep"
+Instruments: "commanding baritone vocals; asynchronous belt whirring; downtuned guitars; piston kicks; clanking chains; chaotic rhythms"
+Tags: "98 BPM; chaotic; race condition metaphor; mechanical breakdown; gated reverb; anarchic"

@@ -1,0 +1,3 @@
+Genre: "Industrial Metal, Steampunk" Exclude: "Pop, Trap, Acoustic, Dubstep"
+Instruments: "barked and whispered vocals; irregular mechanical clicks; downtuned guitars; piston kicks; steam release; mechanical stress sounds"
+Tags: "89 BPM with irregular rhythm; tension building; mechanical failure; gated reverb; austere"

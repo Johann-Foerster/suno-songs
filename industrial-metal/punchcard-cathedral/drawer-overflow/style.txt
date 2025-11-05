@@ -1,0 +1,3 @@
+Genre: "Industrial Metal, Steampunk" Exclude: "Pop, Trap, Acoustic, Dubstep"
+Instruments: "chanted and whispered vocals; mechanical grinding; downtuned guitars; anvil hits; vise compression sounds; piston kicks"
+Tags: "91 BPM; desperate compression; memory overflow metaphor; triumphant; gated reverb"

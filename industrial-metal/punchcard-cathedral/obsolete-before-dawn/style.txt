@@ -1,0 +1,3 @@
+Genre: "Industrial Metal, Steampunk" Exclude: "Pop, Trap, Acoustic, Dubstep"
+Instruments: "solemn baritone vocals; fading relay clicks; downtuned guitars; piston kicks; distant mechanical breathing; melancholic drones"
+Tags: "86 BPM; melancholic; obsolescence theme; fading glory; gated reverb; austere"
