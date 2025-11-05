@@ -1,0 +1,3 @@
+Genre: "Industrial Metal, Steampunk" Exclude: "Pop, Trap, Acoustic, Dubstep"
+Instruments: "solemn spoken and sung vocals; atmospheric silence; fading mechanical sounds; downtuned guitars; soft piston breaths; revelatory tone"
+Tags: "84 BPM; atmospheric; revelation; human element; solemn ending; gated reverb; austere"

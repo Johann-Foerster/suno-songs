@@ -1,0 +1,3 @@
+Genre: "Industrial Metal, Steampunk" Exclude: "Pop, Trap, Acoustic, Dubstep"
+Instruments: "desperate and triumphant vocals; grinding mechanical samples; downtuned guitars; piston kicks; leather belt snaps; relay clicks"
+Tags: "94 BPM; desperate to triumphant; improvisation theme; mechanical breakdown; gated reverb"

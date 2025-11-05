@@ -1,0 +1,3 @@
+Genre: "Industrial Metal, Steampunk" Exclude: "Pop, Trap, Acoustic, Dubstep"
+Instruments: "whispered and commanding vocals; rhythmic relay samples; downtuned guitars; piston kicks; clockwork ticks; magnetic coil hum"
+Tags: "92 BPM; meditative; sacred atmosphere; sudden silence section; gated reverb; austere"
