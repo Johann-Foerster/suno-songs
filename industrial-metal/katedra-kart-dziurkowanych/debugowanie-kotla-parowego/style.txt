@@ -1,0 +1,3 @@
+Genre: "Industrial Metal" Exclude: "Electronic Pop, Acoustic, Jazz, Trap"
+Instruments: "commanding baritone Polish vocals; downtuned palm-muted guitars; piston kick patterns; anvil hits; analog saw drones; steam hiss samples; whispered passages"
+Tags: "92 BPM; mechanical march; martial groove; proto-debugging; steampunk; gated reverb; humorous twist"
