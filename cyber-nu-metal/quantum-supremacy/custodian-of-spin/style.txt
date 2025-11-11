@@ -1,0 +1,3 @@
+Genre: "Cyber Nu Metal"
+Instruments: "gritty melodic vocals; drop-tuned palm-muted guitars; punchy sidechain bass; hybrid acoustic-electronic drums; cold sine pads; granular glitch textures"
+Tags: "120 BPM; stewardship anthem; ascending sine blip intro; heavy drop chorus; ethical resolution; introspective to triumphant"
