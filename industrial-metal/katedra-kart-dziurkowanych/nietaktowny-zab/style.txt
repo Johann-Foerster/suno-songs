@@ -1,0 +1,3 @@
+Genre: "Industrial Metal Steampunk March" Exclude: "Pop, Jazz, Acoustic, Electronic Dance"
+Instruments: "commanding baritone Polish vocals; downtuned palm-muted guitars; piston kick pattern; anvil hits; clockwork ticks; brass-like synth drones; card-punch samples"
+Tags: "95 BPM; irregular mechanical rhythm; proto-debugging theme; crushing mid-tempo; gated reverb; tape saturation; martial groove"

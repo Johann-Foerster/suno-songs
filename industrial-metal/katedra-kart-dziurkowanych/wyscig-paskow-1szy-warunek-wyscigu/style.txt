@@ -1,0 +1,3 @@
+Genre: "Industrial Metal" Exclude: "Electronic Dance, Pop, Acoustic, Jazz"
+Instruments: "baritone male Polish vocals; downtuned palm-muted guitars; piston-like kick drums; chain scrapes; mechanical belt whirring samples"
+Tags: "95 BPM; dark; mechanical breakdown; driving rhythm; steampunk tension"

@@ -1,0 +1,3 @@
+Genre: "Industrial Metal" Exclude: "Electronic Dance, Pop, Acoustic, Jazz"
+Instruments: "commanding baritone bark Polish vocals; downtuned palm-muted guitars; piston-like kick; anvil hits; mechanical grinding samples; low brass-like synth swells"
+Tags: "95 BPM; martial groove; mechanical march; crushing stomp; gated reverb; triumphant"
