@@ -1,0 +1,51 @@
+[Intro]
+[cold sine pad]
+Clock signals drift in parallel streams
+Benchmarks fail through fractured dreams
+
+[Verse]
+Confidence vector strong and prime
+Fear creeps in with every run
+Phase angle splits in time
+Gate fidelity starts to slide
+Constructive hope meets destructive doubt
+My certainty begins to route
+
+[Chorus]
+[heavy drop]
+Phase drift! Vectors torn apart!
+Fear and faith no longer sync!
+Benchmark failures chart the dark!
+Clock skew spreads across the grid!
+Universal timing slips!
+
+[Verse]
+Calibration log shows decay
+Coherence time won't obey
+Emotional qubits split in two
+One brave one terrified and true
+Graphs diverge and scream
+Reality versus dream
+
+[Chorus]
+[heavy drop]
+Phase drift! Vectors torn apart!
+Fear and faith no longer sync!
+Benchmark failures chart the dark!
+Clock skew spreads across the grid!
+Universal timing slips!
+
+[Bridge]
+[whispered]
+Wait there in the error code
+Global phase transform node
+[building]
+Realign the universal clock!
+Sync the drift and break the lock!
+Heroic pulse through every gate!
+
+[Outro]
+[triumphant]
+Global phase aligned at last
+Clock skew corrected future past
+Confidence and fear in tune
