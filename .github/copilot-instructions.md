@@ -7,7 +7,7 @@ Each song lives at: `{genre}/{album}/{song}/`
 Required files inside the song folder:
 1. `text.txt` – Lyrics with section tags.
 2. `text-prompt.txt` – Same lyrics, but tough/technical words rewritten phonetically for cleaner TTS.
-3. `style.txt` – Concise 4‑part style prompt (Genre / Exclude / Instruments / Tags).
+3. `style.txt` – Concise 3‑part positive-first style prompt (Genre / Instruments / Tags). Do NOT use an explicit "Exclude:" field — style prompts should be framed positively.
 
 Each album also requires:
 4. `concept.md` – Album concept document at `{genre}/{album}/concept.md` describing the thematic vision, style consistency, and narrative arc for all songs in the album.
@@ -52,9 +52,9 @@ Each album requires a concept document at `{genre}/{album}/concept.md` that defi
 When creating songs, always reference the album's concept.md to ensure consistency in style, themes, and narrative progression.
 
 ## Style Prompt (`style.txt`)
-Use exactly this 4-part template (one per line or compact block):
+Use exactly this 3-part, positive-first template (one per line or compact block):
 ```
-Genre: "<specific subgenres>"  Exclude: "<styles NOT wanted>"
+Genre: "<specific subgenres>"
 Instruments: "<key instruments; vocal treatment>"
 Tags: "<BPM; mood; structure cues; 2–4 style adjectives>"
 ```
@@ -64,10 +64,11 @@ Guidelines:
 - Use concrete production terms: `rolling bassline`, `909 hats`, `sidechain pump`, `supersaw leads`.
 - BPM numeric when known (e.g. `138 BPM`).
 - Avoid overstuffing instruments; prefer 4–6 focused elements.
+- Frame everything positively.
 
 ## Example `style.txt`
 ```
-Genre: "Techno Trance" Exclude: "Trap, Acoustic, Dubstep"
+Genre: "Techno Trance"
 Instruments: "whispered female vocals; supersaw leads; rolling bassline; 909 percussion; neon pads"
 Tags: "140 BPM; euphoric drop; long riser; hypnotic; 90s nostalgia"
 ```
