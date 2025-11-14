@@ -1,0 +1,3 @@
+Genre: "Cyber Nu Metal"
+Instruments: "aggressive male vocals; palm-muted guitars Drop C; rising white noise sweeps; sub-bass pressure; metallic snares"
+Tags: "130 BPM; tension; crescendo; dark; escalating"

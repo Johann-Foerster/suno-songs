@@ -1,0 +1,67 @@
+[Intro]
+[spoken word]
+Simplifying assumptions
+Revealing truth from chaos
+
+[Verse]
+SFA neglects Coulomb potential in continuum
+Only laser field matters, atomic core numb
+Volkov states describe free electron motion
+Field-dressed plane waves in ocean
+Saddle point integrates transition amplitude
+Steepest descent through complex magnitude
+
+[Pre-Chorus]
+Lewenstein model frames physics clean
+Three step process, paths between
+Tunnel, propagate, recombine
+Strong field approximation design
+
+[Chorus]
+Strong field approximation
+Order from extreme conditions
+Neglect what doesn't matter
+Keep dominant contributions
+Mathematical framework
+For violent regime
+Understanding simplicity
+Physics crystalline
+
+[Verse 2]
+Keldysh parameter determines validity
+Below one point five, SFA utility
+Ignoring atomic potential in continuum
+Justified when field dominates
+From chaos, order thrived
+
+[Chorus]
+Strong field approximation
+Order from extreme conditions
+Neglect what doesn't matter
+Keep dominant contributions
+Mathematical framework
+For violent regime
+Understanding simplicity
+Physics crystalline
+
+[Bridge]
+[melodic clean vocals]
+Violence simplified
+Chaos understood
+Extreme conditions
+Reveal the good
+Approximation captures truth
+Through elegant reduction
+
+[Breakdown]
+Volkov propagator!
+Saddle point integration!
+Analytical tractability!
+From numerical complexity!
+
+[Outro]
+[whispered]
+SFA reveals structure
+Hidden in violence
+Strong field theory
+Brings order silence

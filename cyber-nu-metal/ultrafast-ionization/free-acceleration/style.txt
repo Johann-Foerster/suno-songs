@@ -1,0 +1,3 @@
+Genre: "Cyber Nu Metal"
+Instruments: "aggressive shouted vocals; tremolo picked guitars Drop C; oscillating sub-bass; rapid double bass; granular synthesis bursts"
+Tags: "160 BPM; fast; chaotic; aggressive; kinetic"
