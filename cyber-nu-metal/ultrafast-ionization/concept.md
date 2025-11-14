@@ -25,6 +25,7 @@ A visceral journey through the extreme interaction between matter and intense la
 9. **Attosecond Revelation** – Time itself compressed; electron motion frozen; seeing the invisible; capturing dynamics on nature's fastest timescale.
 10. **Strong Field Approximation** – Theoretical framework emerges from chaos; understanding the violence; simplifying assumptions that reveal truth; finding order in extreme conditions.
 11. **Ultrafast Aftermath** – Post-pulse silence; ionized plasma cooling; transformation complete; what remains when the field collapses; integration of destruction and creation.
+12. **Free Electron Asymptote** – The electron finally liberated to infinity; Schrödinger equation solved in simplest form; asymptotic freedom beyond all potentials; pure kinetic energy state; the journey complete from bound to unbound; quantum wave function spreading freely through space; ultimate liberation achieved.
 
 ## Key Themes
 - **Duality of Forces**: Laser fields as both destroyer (ionization, fragmentation) and creator (HHG, attosecond pulses, molecular imaging).
@@ -62,7 +63,7 @@ A visceral journey through the extreme interaction between matter and intense la
 - **Mastering Cohesion**: Maintain punchy low-end (40-80 Hz sub-bass for ponderomotive forces); preserve transient attack for pulse precision; allow dynamic range for buildup/release contrast; use parallel compression to keep aggression controlled.
 
 ## Cohesion Constraints
-- **BPM Grouping**: 3 tracks at 115–130 (field buildup, tunneling sequences), 5 tracks at 140–160 (ionization, acceleration, recollision), 3 tracks at 165–180 (extreme chaos, HHG bursts, molecular dissociation).
+- **BPM Grouping**: 4 tracks at 115–130 (field buildup, tunneling sequences, resolution), 5 tracks at 140–160 (ionization, acceleration, recollision), 3 tracks at 165–180 (extreme chaos, HHG bursts, molecular dissociation).
 - **Tonal Centers**: Favor Drop C/Drop B guitar tunings. Modal frameworks: E Phrygian (tension, barrier suppression), C# minor (electron liberation), F# Aeolian (recollision darkness), occasional B Dorian lifts (HHG creation moments). Maintain dark tonal palette with strategic brightness for generative themes.
 - **Recurring Textural Signature**: Distorted power chord pedal tone under filtered white noise sweep in pre-chorus sections—brands the sonic identity of field intensity.
 - **Electronic Palette Discipline**: Restrict glitch/noise types to: bit-crushed square waves (tunneling), granular bursts (fragmentation), sine clusters (Coulomb potentials), sharp transient stabs (recollision), filtered white noise (field intensity), sub-bass oscillation (ponderomotive drift).
