@@ -1,0 +1,3 @@
+Genre: "Cyber Nu Metal"
+Instruments: "percussive semi-spoken male vocals; drop-tuned palm-muted guitars; sidechain bass; hybrid electronic drums; cold sine pads; bit-crushed risers"
+Tags: "120 BPM; ethical tension; two-phase dynamics; whispered bridge; industrial textures; moral weight"
