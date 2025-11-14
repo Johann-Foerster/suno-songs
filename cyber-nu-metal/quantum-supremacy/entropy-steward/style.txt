@@ -1,0 +1,3 @@
+Genre: "Cyber Nu Metal"
+Instruments: "gritty melodic vocals; drop-tuned palm-muted guitars; sidechain bass; hybrid electronic-acoustic drums; cold sine pads; granular glitch bursts"
+Tags: "140 BPM; entropy inversion narrative; distorted riff drops; whispered bridge; two-phase energy shift; stewardship theme"
