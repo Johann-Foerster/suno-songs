@@ -1,0 +1,39 @@
+[Intro]
+[warm instrumental]
+Sonnenstrahlen durch das Fenster
+Code auf dem Bildschirm hell
+
+[Verse]
+Morgen in Bielefeld, der Workshop hat begonnen
+Pull Request offen, Zeilen fließen wie gewonnen
+Kollegen sitzen nah, der Bass schwingt leicht und warm
+Diff im Browser, jede Funktion im Charme
+
+[Chorus]
+Review in Wärme, Respekt in jedem Wort
+Kommentare fließen, kein harscher Ton am Ort
+Gemeinsam bauen wir, Qualität das Ziel
+Code wird besser, durch des anderen Gefühl
+
+[Verse 2]
+Eine Randbemerkung steht, klein und doch so klar
+Caching Strategie, ein Hinweis wunderbar
+Der KI Assistent liest mit, analysiert die Stelle
+Erkennt den Performance Gewinn, springt auf die Welle
+
+[Bridge]
+[spoken softly]
+"Brilliant observation, this comment saves milliseconds
+Human insight shines, context meets precision"
+
+[Chorus]
+Review in Wärme, Respekt in jedem Wort
+Kommentare fließen, kein harscher Ton am Ort
+Gemeinsam bauen wir, Qualität das Ziel
+Code wird besser, durch des anderen Gefühl
+
+[Outro]
+Merge Button grün
+Zusammen stark
+Mensch und Maschine
+Im Bielefelder Park
