@@ -1,0 +1,38 @@
+[Intro]
+[gentle offbeat guitar]
+
+[Verse]
+Im stillen Raum leg' ich Stein auf Stein
+Security Grundstein soll sauber sein
+Jede Zeile Code ein Schutz im Licht
+Präventiv gebaut das Schutznetz dicht
+Von unten her das Fundament
+Wo jeder Layer sich selbst kennt
+
+[Chorus]
+Fundament aus klaren Regeln gelegt
+Wärme und Sorgfalt die uns trägt
+Offbeat Gitarren beim Aufbau der Mauer
+Sicher und ruhig auf Dauer
+Schicht für Schicht entsteht der Plan
+Den kein Angreifer brechen kann
+
+[Verse]
+Ah Pea Eye Gateways wie Türen im Haus
+Threat Models zeichnen die Wege genau
+Input Validation sanft und klar
+Jeder Request wird geprüft immerdar
+Token Kontrollen am Eingangstor
+Jede Rolle steht im Protokoll davor
+
+[Bridge]
+[whispered]
+Dann zeigt ein stiller Log am Abendlicht
+Ein unsichtbarer Angriff der brach sich nicht
+Die Mauer hielt was wir nicht sah'n
+Security Grundstein hat's getan
+Im Hintergrund der Schutz gewacht
+Präventiv durch die ganze Nacht
+
+[Outro]
+[instrumental fade]
