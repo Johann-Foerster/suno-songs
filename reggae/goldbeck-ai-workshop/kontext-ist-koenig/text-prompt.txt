@@ -5,7 +5,7 @@ Context frames begin to glow
 
 [Verse]
 Prompt ohne Kontext wie ein Schiff ohne Kompass
-Ell Ell Em Modell wartet auf die richtige Landmass
+Ell Ell Em Modell wartet auf die richtige Landmasse
 Token window voll mit signal nicht mit noise
 Structured knowledge gibt dem Output seine Voice
 Context length bestimmt was das Modell versteht
