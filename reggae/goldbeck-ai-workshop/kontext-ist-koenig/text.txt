@@ -5,7 +5,7 @@ Context frames begin to glow
 
 [Verse]
 Prompt ohne Kontext wie ein Schiff ohne Kompass
-LLM Modell wartet auf die richtige Landmass
+LLM Modell wartet auf die richtige Landmasse
 Token window voll mit signal nicht mit noise
 Structured knowledge gibt dem Output seine Voice
 Context length bestimmt was das Modell versteht
