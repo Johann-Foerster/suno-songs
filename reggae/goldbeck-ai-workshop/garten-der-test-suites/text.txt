@@ -1,0 +1,38 @@
+[Intro]
+[instrumental]
+
+[Verse]
+Morgen früh im Test-Suite Garten
+Rechen, Spaten, assertions warten
+Jeden Tag die Zeilen gießen
+Grüne Tests soll'n neu erblühen
+
+[Chorus]
+Pflege deinen Code wie Erde
+Jede assertion hat Werde
+Coverage steigt wie Morgentau
+Edge cases blüh'n im Grün genau
+
+[Verse]
+CI Pipeline fließt wie Wasser
+Nährt die Wurzeln, macht sie krasser
+Unit Tests sind kleine Sprossen
+Haben nie den Lauf verschlossen
+
+[Chorus]
+Pflege deinen Code wie Erde
+Jede assertion hat Werde
+Coverage steigt wie Morgentau
+Edge cases blüh'n im Grün genau
+
+[Bridge]
+Dann plötzlich, unerwartete Blüte
+Eine Orchidee im Test-Gemüte
+Seltenes Edge-Case erscheint im Licht
+Das war der Traum, vergiss es nicht
+
+[Outro]
+Im Garten der Test-Suites
+Wächst Qualität durch gute Beats
+Bewässerung und Sorgfalt treu
+Macht jeden Build und Merge-Tag neu
