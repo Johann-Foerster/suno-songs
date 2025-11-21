@@ -1,0 +1,42 @@
+[Intro]
+Nebel hebt sich über Bielefeld
+Frühlicht wärmt das Tastaturfeld
+
+[Verse 1]
+Erste Zeilen füllen sanft das Fenster
+Context window öffnet sich im Raum
+Prompt um Prompt, wir bauen Satz für Satz
+Jedes Token findet seinen Platz
+Foundation legen wir mit Sorgfalt
+Zeile wird zu Rahmen, warm und klar
+
+[Chorus]
+Morgenlicht auf neuem Code
+Zusammen schreiben wir die Node
+Pair-Prompt bringt die Harmonie
+Leise Stimmen, starke Melodie
+
+[Verse 2]
+Neues Teammitglied am Tisch dabei
+Fragen fließen, Antworten werden frei
+Kontext wächst mit jedem Wort
+Fundament aus Dialog und Ort
+Pair-Prompting öffnet neue Wege
+Gemeinsam denken, besser sehen
+Architekturen, die wir pflegen
+
+[Chorus]
+Morgenlicht auf neuem Code
+Zusammen schreiben wir die Node
+Pair-Prompt bringt die Harmonie
+Leise Stimmen, starke Melodie
+
+[Bridge]
+Nebel weicht, die Klarheit steigt
+Was zusammen wächst, bleibt
+Token reiht sich, Struktur zeigt
+Kollaboration, die uns vereint
+
+[Outro]
+Context window voll und rein
+Bielefeld im Morgenschein
