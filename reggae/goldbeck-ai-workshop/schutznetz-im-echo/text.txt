@@ -1,0 +1,39 @@
+[Intro]
+[instrumental]
+Echo prüft, was bleibt
+
+[Verse]
+Jede Zeile läuft durch Delay
+Threat Modeling im Dub Array
+Risiken hallt zurück, klar erkannt
+Schutznetz webt sich Schicht für Schicht gespannt
+
+[Chorus]
+Echo zeigt was sicher trägt
+Dub-Delay, der Muster prägt
+Nur die guten Patterns bleiben stehn
+Schutznetz im Echo, lass es gehn
+
+[Verse]
+Attack Surface klein gehalten
+Security by Design entfalten
+Jeder Input wird gefiltert rein
+Schwache Stellen faden aus im Delay Schein
+
+[Chorus]
+Echo zeigt was sicher trägt
+Dub-Delay, der Muster prägt
+Nur die guten Patterns bleiben stehn
+Schutznetz im Echo, lass es gehn
+
+[Bridge]
+[call and response]
+Tape Delay checkt Authentication
+Reverb testet Authorization
+Was nicht passt, verhallt im Raum
+Sichere Architektur, kein Albtraum
+
+[Outro]
+[instrumental fade]
+Im Echo bleibt nur gutes Design
+Schutznetz hält die Linie fein
