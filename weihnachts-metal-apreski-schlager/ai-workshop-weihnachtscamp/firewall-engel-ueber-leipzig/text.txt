@@ -1,0 +1,49 @@
+[Intro]
+[festive bells]
+[whispered]
+Über den Dächern
+
+[Verse]
+Über Leipzig schwebt ein Engel still
+Firewall-Flügel, schimmernder Schild
+Defense-in-Depth wie Weihnachtsmantel-Lagen
+Packet-Filter außen, IDS im Kern
+Jede Schicht ein Schutzwall, fest verschnürt
+Angriff prallt ab am mehrfachen Wall
+
+[Chorus]
+Firewall-Engel, wach über uns!
+Schichten um Schichten, kein Durchbruch gelingt
+Defense-in-Depth, der heilige Plan
+Wie Weihnachtsmantel schützt du die Stadt!
+Leipzig schläft ruhig unterm Sternenzelt
+
+[Verse]
+DMZ vor den Servern gespannt
+Dann kommt Application-Layer-Guard
+Segmentierung trennt die Netzwerk-Zonen
+Zero-Trust-Prinzip im Engel-Herz
+Jede Verbindung wird geprüft und logged
+Redundanz und Fail-Safe, immer bereit
+
+[Bridge]
+[commanding]
+Perimeter! Application! Data!
+[whispered]
+Drei Schichten Schutz
+
+[Drop]
+[heavy breakdown]
+[gang vocals]
+Defense! In! Depth!
+
+[Chorus]
+Firewall-Engel, wach über uns!
+Schichten um Schichten, kein Durchbruch gelingt
+Defense-in-Depth, der heilige Plan
+Wie Weihnachtsmantel schützt du die Stadt!
+
+[Outro]
+[bells fading]
+Leipzig träumt sicher heut Nacht
+Der Engel wacht
