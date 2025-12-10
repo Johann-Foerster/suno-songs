@@ -1,0 +1,41 @@
+[Intro]
+[instrumental break]
+
+[Verse]
+Der Security-Nikolaus kommt rein im roten Pulli
+Verteilt keine Geschenke, nur Bedrohungsmodelle
+Ship fast, sagte der Dev und grinst so frech
+Doch ohne Threat Modeling läuft es schief, das ist echt
+
+[Pre-Chorus]
+Security-by-Design, Defense-in-Depth
+Das sind die Geschenke, die er heute bringt
+
+[Chorus]
+Security-Nikolaus, zeig uns den Weg
+Rodeln ohne Bremse, das geht nicht korrekt
+Threat Models unterm Tannenbaum, so hell und klar
+Ship safe, nicht nur fast, das ist wunderbar
+
+[Verse]
+Die Devs seufzen leise, Pull Request steht still
+Attack Surface Mapping, wer das wirklich will?
+Doch der Nikolaus lächelt, zeigt das Datenfluss-Diagramm
+Ohne Security wird's gefährlich, Baby, ja verdammt
+
+[Bridge]
+Input-Validierung, Crypto richtig gemacht
+Zero-Trust-Prinzip in der Weihnachtsnacht
+Jeder sieht es ein bei Glühwein und bei Schnee
+Security ist Liebe, nicht nur Highway
+
+[Chorus]
+Security-Nikolaus, zeig uns den Weg
+Rodeln ohne Bremse, das geht nicht korrekt
+Threat Models unterm Tannenbaum, so hell und klar
+Ship safe, nicht nur fast, das ist wunderbar
+
+[Outro]
+[whispered]
+Defense-in-Depth
+Security-by-Design
