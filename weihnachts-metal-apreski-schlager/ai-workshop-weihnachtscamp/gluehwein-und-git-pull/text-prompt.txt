@@ -1,0 +1,51 @@
+[Intro]
+[festive bells]
+Schneegestöber, Leipzig winterkalt
+Workshop-Hütte, erster Glühwein-Halt
+
+[Verse]
+Repos klonen auf dem kalten Screen
+Rollen klären, wer macht was und ween
+Erster Schluck, Wärme fließt durchs Team
+Expectations Board, das große Dream
+Kalte Finger tippen Gitt-Befehle ein
+"Ich kann das!" - zu viel Glühwein-Schein
+
+[Chorus]
+Glühwein und Gitt Pull
+Zimt und Merge Conflict cool
+Overconfidence im Blut
+Kalte Finger machen's nicht gut
+Glühwein und Gitt Pull
+Repos, Rollen, alles full
+Erste Session, erste Nacht
+Workshop-Chaos hat begonnen, kracht!
+
+[Verse 2]
+Whiteboards voll mit Ell Ell Em-Konzept
+Main Branch protected, keiner checkt
+Zweiter Glühwein, Mut steigt exponentiell
+"Force Push? Klar!" - Fatal Error schnell
+Finger frieren, Tastatur zu kalt
+Merge Request crashed, die Gewalt
+
+[Bridge]
+[spoken, tipsy]
+"Warte, war das mein Branch?"
+"Nein, das war Main!"
+"Ach so... sorry!"
+
+[Chorus]
+Glühwein und Gitt Pull
+Zimt und Merge Conflict cool
+Overconfidence im Blut
+Kalte Finger machen's nicht gut
+Glühwein und Gitt Pull
+Repos, Rollen, alles full
+Erste Session, erste Nacht
+Workshop hat uns schon erwischt!
+
+[Outro]
+[whispered]
+Lesson learned am ersten Abend schon
+Glühwein und Gitt brauchen Respekt, nicht Hohn
