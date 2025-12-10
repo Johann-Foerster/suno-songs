@@ -1,0 +1,50 @@
+[Intro]
+Gondel steigt, Motor brummt
+Schnee fällt dicht, Talblick stumm
+Im engen Raum, sechs Leute dicht
+Diskutieren über Kontext und Sicht
+
+[Verse]
+Gondel stickig, steigen hoch zum Camp
+Whiteboards, Glühwein, Ay Eye-Workshop Dampf
+Wie viel Kontext braucht das Ell Ell Em?
+Wann wird Chunking nötig, nicht im Dunkeln steh'n?
+
+[Pre-Chorus]
+Zu wenig Input, zu viel vergessen
+Das Modell kann nicht mehr messen
+Token-Limits überall
+Kontextfenster, knapper Schwall
+
+[Chorus]
+Kontextfenster-Kabinenlift
+Zu wenig Kontext, das Seil das bricht
+Wie ein Abriss im Sturm, mitten im Flug
+Ohne Zusammenhang kein Bezug
+Kontextfenster-Kabinenlift
+Chunking rettet, wenn nichts mehr greift
+
+[Verse 2]
+Acht-Kay-Tokens war mal Standard, heute lachen wir
+Hunderttausend geht jetzt, doch Kosten steigen hier
+Smart chunken, überlappen, Metadata rein
+Sonst vergisst es den Anfang, Neustart allein
+
+[Chorus]
+Kontextfenster-Kabinenlift
+Zu wenig Kontext, das Seil das bricht
+Wie ein Abriss im Sturm, mitten im Flug
+Ohne Zusammenhang kein Bezug
+Kontextfenster-Kabinenlift
+Chunking rettet, wenn nichts mehr greift
+
+[Bridge]
+[breakdown]
+Gondel schwankt
+Sturm wird stark
+Seil knarzt laut
+Griff zu knapp
+
+[Outro]
+Campus erreicht, Tür geht auf
+Kontext ist König, das wissen wir genau
