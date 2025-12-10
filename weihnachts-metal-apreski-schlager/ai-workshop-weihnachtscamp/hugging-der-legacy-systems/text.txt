@@ -1,0 +1,40 @@
+[Intro]
+[instrumental break]
+
+[Verse]
+Mitternacht im Serverraum die Logs schreien laut
+Legacy-Code wie Beton keine API vertraut
+Der AI-Stack will modern sein doch COBOL sagt nein
+Zwischen Whiteboards und Glühwein ringen wir allein
+
+[Chorus]
+Hug the Legacy hug the old machine
+Zwischen Altlasten und dem neuen Sheen
+Adapter bauen Bridges schlagen bis es passt
+Weihnachtswunder wenn der Wrapper endlich fasst
+
+[Verse]
+Monolithen aus den Achtzigern SQL wie Granit
+Der LLM versteht sie nicht kein Training kein Profit
+Doch wir schreiben Schnittstellen Zeile für Zeile im Schnee
+Integration statt Revolution der alte Geist bleibt steh
+
+[Chorus]
+Hug the Legacy hug the old machine
+Zwischen Altlasten und dem neuen Sheen
+Adapter bauen Bridges schlagen bis es passt
+Weihnachtswunder wenn der Wrapper endlich fasst
+
+[Bridge]
+[whispered]
+Respekt für das was war
+Versöhnung wird uns klar
+
+[Drop]
+[gangshouts]
+Legacy lives Legacy stays
+Neue Tools alter Code in Harmonie always
+
+[Outro]
+Die Pipeline läuft der Test wird grün
+Das alte System darf weiter glühn
