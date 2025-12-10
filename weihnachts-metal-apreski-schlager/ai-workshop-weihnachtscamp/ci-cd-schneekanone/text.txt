@@ -1,0 +1,48 @@
+[Intro]
+Achtung, Achtung, es geht los!
+Schneekanone macht bereit!
+
+[Verse]
+In der Pipeline, tief im Code
+Tests auf Grün, Security im Modus
+Jeden Commit prüft die Maschine
+Review-Gate leuchtet wie die Sterne über uns
+Docker-Images werden gebaut
+Artifakte liegen bereit zum Schuss
+
+[Chorus]
+Schneekanone, Schneekanone, schieß das Build!
+CI/CD im Takt der Glocken
+Production wird mit Schnee gefüllt
+Deployment fliegt, nichts kann uns blocken!
+Grüne Lights, der Countdown läuft
+Schneekanone, heute feiern wir!
+
+[Verse]
+Security-Gates stehen auf Grün
+Tests bestanden, alles sauber
+Linter schweigt, Coverage bei neunzig
+Sidechain pumpt wie Bass im Keller
+Rollback-Plan liegt in der Tasche
+Für den Fall, dass was schief geht
+
+[Bridge]
+Monitoring zeigt uns den Weg
+Metrics tanzen im Dashboard
+Logs erzählen keine Lügen
+Alles läuft, die Pipeline singt!
+
+[Drop]
+Feuer frei! Release!
+
+[Chorus]
+Schneekanone, Schneekanone, schieß das Build!
+CI/CD im Takt der Glocken
+Production wird mit Schnee gefüllt
+Deployment fliegt, nichts kann uns blocken!
+Grüne Lights, der Countdown läuft
+Schneekanone, heute feiern wir!
+
+[Outro]
+Pipeline schläft, bis morgen früh
+Schneekanone ruht sich aus
