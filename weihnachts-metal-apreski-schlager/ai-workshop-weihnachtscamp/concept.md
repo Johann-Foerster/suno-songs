@@ -1,0 +1,16 @@
+# AI-Workshop Weihnachtscamp – Albumkonzept
+
+## Thematic Vision
+Dieses Album verbindet die Wärme eines chaotisch-gemütlichen Weihnachts-Hackathons mit der Wucht von Metal und der Feierlaune eines Après-Ski-Schlagers. Die Songs erzählen von einem AI Assisted Software Development Workshop bei Goldbeck in Leipzig, eingebettet in winterliche Berghütten-Atmosphäre: Whiteboards neben Glühwein, Pull Requests zwischen Lebkuchenkrümeln, und LLMs, die genauso launisch sind wie das Wetter am Gletscher. Humorvoll, technisch versiert und dennoch herzlich soll das Album die Faszination und Überforderung moderner AI-gestützter Entwicklung einfangen.
+
+## Musical Style Consistency
+Musikalisch verschmilzt das Album Weihnachts-Metal mit Après-Ski-Schlager-Euphorie: durchgehende 130–150 BPM mit treibenden Double-Bass-Drums, mitsingbaren Refrains und stampfenden Hütten-Chören. Gitarren (gerne Drop-Tuning), festliche Glocken und Glockenspiele, Synth-Brass für Party-Hooks, Chor-Pads im Weihnachtskirchen-Stil und massiver Bass bilden die Kerninstrumente. Produktionstechnisch dominieren fette Singalong-Gangshouts, Crowd-Noise wie in der Skihütte, punktuelle Breakdowns mit Gitarrenriffs, Glitch-FX als Metapher für Bugs sowie klare, nach vorne gemischte Vocals.
+
+## Narrative Arc
+Die Albumreise folgt einem Workshop-Tag (oder -Wochenende) vom verschneiten Ankommen über erste Intro-Sessions, Deep-Dive-Tracks zu Instructions, Kontext, LLM-Architektur und MCP-Integration, bis hin zu Security- und Testautomatisierungssessions spät in der Nacht. Anfangs herrscht naive Vorfreude, dann kommen technische Überforderung, Debugging-Frust und Sicherheits-Paranoia auf, bevor sich gegen Ende ein gemeinsames Gefühl von Kompetenz, Teamgeist und versöhnlicher Weihnachtsstimmung einstellt. Das Finale soll wie der letzte Song einer überdrehten After-Ski-Party wirken, aber mit einem warmen, reflektierten Unterton.
+
+## Key Themes
+Zentrale Themen sind AI-gestützte Softwareentwicklung (Prompting, Kontext-Handling, Tooling), die Zusammenarbeit von Menschen und LLMs, der Umgang mit MCP als strukturierendes Rückgrat von Tools, Security-by-Design und Defense-in-Depth sowie testgetriebene, automatisierte Qualitätssicherung. Wiederkehrende Motive: Schneetreiben vor der Hütte vs. Datenstürme im Log, rote und grüne Test-Lichterketten, Schutzengel-Firewalls, Bratäpfel neben Build-Pipelines, und die Frage, wie viel man einer Black-Box-Intelligenz anvertrauen darf. Humor, Selbstironie und liebevolle Überzeichnung des Entwickleralltags sind durchgehend erwünscht.
+
+## Lyrical Guidelines
+Jeder Song sollte 120–180 Wörter umfassen und klare, mitsingbare Refrains mit einfachen, gern leicht kitschigen Hook-Phrasen bieten, während die Strophen technischen Detailwitz (LLMs, Kontextfenster, MCP, Security-Patterns, Testautomatisierung, CI/CD) transportieren. Sprache kann locker-deutscher Slang mit eingestreuten englischen Fachbegriffen sein, solange der Weihnachts- und Hüttencharakter spürbar bleibt. Alle Sektionen müssen mit klaren Tags wie `[Intro]`, `[Verse]`, `[Chorus]`, `[Bridge]`, `[Drop]`, `[Outro]` oder `[Instrumental]` arbeiten, und jede eckige Klammer steht immer allein in einer eigenen Zeile (keine Inline-Tags inmitten eines Satzes). Die Texte sollen die Balance zwischen technischem Inhalt, Party-Energie und warmherziger Weihnachtsnostalgie halten.
