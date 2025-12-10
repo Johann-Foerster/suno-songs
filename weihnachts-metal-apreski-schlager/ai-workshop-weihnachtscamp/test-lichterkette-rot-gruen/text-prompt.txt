@@ -1,0 +1,60 @@
+[Intro]
+[festive bells]
+Lichterkette flackert rot
+Pipeline bricht, Build-Not
+
+[Verse]
+Jeder Test ein Lämpchen an der Schnur
+Grün oder rot, kein Grau, nur pur
+See Eye Pipeline läuft durch die Nacht
+Failed Assertion, alles rot gemacht
+Unit Tests flackern, Integration bricht
+Testautomatisierung im Kerzenlicht
+
+[Pre-Chorus]
+Logs scrollen wie Schneeflocken vorbei
+Exception hier, Timeout dabei
+
+[Chorus]
+Lichterkette grün!
+Alle Tests bestehen!
+Build erfolgreich, Party geht los
+Refactoring war nicht umsonst, oh so groß
+Grün-grün-grün!
+Die Pipeline tanzt im Glühweinduft
+Lichterkette grün, grün, grün!
+
+[Verse 2]
+Red-Green-Refactor, Tee Dee Dee-Mantra laut
+Coverage steigt, Team jubelt und braut
+Mocking Frameworks, Stubs dekoriert
+Regression Suite, sauber dokumentiert
+Flaky Tests gefixed im Schneegestöber
+Continuous Integration immer schöner
+
+[Chorus]
+Lichterkette grün!
+Alle Tests bestehen!
+Build erfolgreich, Party geht los
+Refactoring war nicht umsonst, oh so groß
+Grün-grün-grün!
+Die Pipeline tanzt im Glühweinduft
+Lichterkette grün, grün, grün!
+
+[Bridge]
+[shouted]
+Erst rot dann grün!
+Debug-Marathon!
+Erst rot dann grün!
+Celebration!
+
+[Drop]
+[instrumental with crowd chants]
+Grün! Grün! Grün!
+
+[Outro]
+[triumphant]
+Lichterkette leuchtet endlich grün
+Alle Tests bestehen, wir sind im Lead
+Deployment ready, Release steht an
+Weihnachts-Deploy, jetzt geht es ran!
