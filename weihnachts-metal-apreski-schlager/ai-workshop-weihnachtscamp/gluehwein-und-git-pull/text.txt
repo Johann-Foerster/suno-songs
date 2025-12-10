@@ -5,7 +5,7 @@ Workshop-Hütte, erster Glühwein-Halt
 
 [Verse]
 Repos klonen auf dem kalten Screen
-Rollen klären, wer macht was und ween
+Rollen klären, wer macht was und wen
 Erster Schluck, Wärme fließt durchs Team
 Expectations Board, das große Dream
 Kalte Finger tippen Git-Befehle ein
