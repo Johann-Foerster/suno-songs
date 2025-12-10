@@ -1,0 +1,42 @@
+[Intro]
+[crowd noise and bells]
+
+[Verse]
+Heut ist der letzte Abend, Glühwein in der Hand
+Bugs gefixt, Tests geschrieben, Prompts so klar wie Eis
+Security im Fokus, jeder kennt jetzt seinen Preis
+
+[Chorus]
+[gang shouts]
+Heut schwör'n wir beim Glühwein und beim Schnee
+Nie wieder Dee Ploy ohne Tests, das tut so weh
+Security first, Defense in Depth, das ist der Plan
+Saubere Prompts, die jeder lesen kann
+Après-Ski-Retrospektive, wir sind ready, geht es los
+Mit Ah Eye an der Seite, ja das Team ist riesengroß
+
+[Verse 2]
+Kontextfenster klein, Em Cee Pee hat uns befreit
+Instructions klar definiert, endlich weit gebracht
+Von Fails bis Clean Code, Schritt für Schritt
+Goldbeck Leipzig Weihnachtscamp, wir gehen mit
+
+[Bridge]
+[instrumental with bells]
+In der Hütte wird's jetzt still
+Besserer Code, mehr Tests, Security-Wall
+Wir sind bereit für den nächsten Knall
+
+[Chorus]
+[gang shouts]
+Heut schwör'n wir beim Glühwein und beim Schnee
+Nie wieder Dee Ploy ohne Tests, das tut so weh
+Security first, Defense in Depth, das ist der Plan
+Saubere Prompts, die jeder lesen kann
+Après-Ski-Retrospektive, wir sind ready, geht es los
+Mit Ah Eye an der Seite, ja das Team ist riesengroß
+
+[Outro]
+[crowd singing]
+Frohe Weihnacht, froher Code
+Wir deployten nie mehr roh
