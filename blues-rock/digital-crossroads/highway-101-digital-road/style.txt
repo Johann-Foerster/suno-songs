@@ -1,0 +1,3 @@
+Genre: "Blues Rock"
+Instruments: "soulful male vocals; overdriven Gibson Les Paul electric guitar; Hammond B3 organ with Leslie speaker; electric bass with walking lines; live drum kit; slide guitar; harmonica"
+Tags: "95 BPM; uplifting; reflective; road song; transformation"
