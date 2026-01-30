@@ -16,7 +16,7 @@ Refactor my soul, ain't done changing yet
 [Verse 2]
 Machine said here's a better way, consolidate redundant lines
 Extract methods, DRY they say, optimize these designs
-But it ain't just code it's teaching me, it's how I lived
+But it ain't just code, it's teaching me, it's how I lived
 Holding onto history, afraid to give
 
 [Chorus]
