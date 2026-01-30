@@ -1,0 +1,42 @@
+[Intro]
+[slide guitar]
+
+[Verse]
+Standing at my pull request screen
+AI's whispering what I should refactor clean
+But my gut says something ain't quite right
+Been coding long enough to know this fight
+
+[Chorus]
+At the crossroads, can't decide
+Trust the machine or trust my pride
+Sometimes the algorithm knows best
+Sometimes I gotta fail my own test
+
+[Verse]
+Copilot says to change my nested loops
+Suggests a pattern that could save the troops
+But I remember when this pattern failed before
+Machine don't know what I've been through before
+
+[Chorus]
+At the crossroads, can't decide
+Trust the machine or trust my pride
+Sometimes the algorithm knows best
+Sometimes I gotta fail my own test
+
+[Bridge]
+[spoken, reflective]
+Wisdom ain't choosing one or the other
+It's knowing which voice to trust, brother
+The crossroads teaches you to read the signs
+When to follow, when to draw your lines
+
+[Solo]
+[extended guitar solo with Hammond organ]
+
+[Outro]
+Found my answer in the grey between
+Human instinct meets the machine
+That's the wisdom of the crossroads way
+Choose wisely, code another day
