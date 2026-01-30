@@ -1,0 +1,3 @@
+Genre: "Blues Rock"
+Instruments: "soulful male vocals; overdriven electric guitar; Hammond B3 organ; walking bass; live drum kit; harmonica; slide guitar"
+Tags: "95 BPM; melancholic; skeptical; morning mood; sparse verses building to full choruses"
