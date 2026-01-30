@@ -1,0 +1,38 @@
+[Intro]
+[harmonica]
+
+[Verse]
+Young blood at the keyboard, eyes bright with fear
+Same look I wore when Vim first appeared
+You think AI's different, gonna steal your throne
+Kid, I said that about Stack Overflow back home
+
+[Chorus]
+Tools change but the struggle stays the same
+Every generation plays a different game
+IDE or chatbot, pencil or a pen
+What matters is the craft, not where or when
+
+[Verse 2]
+Sat where you sit now, nineteen ninety-nine
+Thought real coders wrote machine code line by line
+Then came Eclipse, IntelliSense, and more
+Each time the old guard swore we'd lost the core
+
+[Bridge]
+[slide guitar]
+But the blues don't lie
+Good code needs a human eye
+AI's just your crossroads deal
+The wisdom's knowing what is real
+
+[Chorus]
+Tools change but the struggle stays the same
+Every generation plays a different game
+IDE or chatbot, pencil or a pen
+What matters is the craft, not where or when
+
+[Outro]
+[harmonica]
+So take that co-pilot, learn to make it sing
+The struggle ain't the tool, it's mastering the thing
