@@ -1,0 +1,3 @@
+Genre: "Blues Rock"
+Instruments: "weathered male vocals; overdriven Gibson Les Paul; Hammond B3 organ; walking electric bass; live drums with rim shots; slide guitar; harmonica"
+Tags: "95 BPM; defiant; guitar-driven; vintage warmth; call-and-response"
