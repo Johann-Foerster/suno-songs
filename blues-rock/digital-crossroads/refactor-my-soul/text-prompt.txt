@@ -1,0 +1,36 @@
+[Intro]
+[slide guitar]
+
+[Verse]
+Carrying legacy code, twenty years of patch and prayer
+Nested loops and spaghetti, tangled everywhere
+Then the ay eye looked inside, said this needs to change
+Showed me patterns I could ride, time to rearrange
+
+[Chorus]
+Refactor my soul, clean up what's inside
+Strip away the old, let the new be my guide
+Like code that's running slow, filled with technical debt
+Refactor my soul, ain't done changing yet
+
+[Verse 2]
+Machine said here's a better way, consolidate redundant lines
+Extract methods, dee are why they say, optimize these designs
+But it ain't just code it's teaching me, it's how I lived
+Holding onto history, afraid to give
+
+[Chorus]
+Refactor my soul, clean up what's inside
+Strip away the old, let the new be my guide
+Like code that's running slow, filled with technical debt
+Refactor my soul, ain't done changing yet
+
+[Bridge]
+[harmonica solo]
+Let go of the way it's always been
+Fresh eyes see what I couldn't see within
+
+[Outro]
+Neural net and human sweat
+Finding what I can't forget
+Refactor my soul

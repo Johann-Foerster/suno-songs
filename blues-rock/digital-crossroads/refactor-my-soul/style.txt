@@ -1,0 +1,3 @@
+Genre: "Blues Rock"
+Instruments: "soulful male vocals; overdriven electric guitar; Hammond B3 organ; slide guitar; harmonica; walking bass; live drums with rim shots"
+Tags: "95 BPM; contemplative; building to revelation; vintage warmth; tape saturation"
