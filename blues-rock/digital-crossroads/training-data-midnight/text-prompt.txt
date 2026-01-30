@@ -1,0 +1,53 @@
+[Intro]
+[slide guitar]
+
+[Verse]
+Midnight in the workshop room
+Screen glow cuts through the gloom
+Instructor pulls back the curtain wide
+Shows us what's inside
+Not cold logic, not machine dreams
+Millions of developers' screams
+Stack traces and bug reports filed
+Every error message compiled
+
+[Chorus]
+Training data midnight
+Understanding the light
+Not magic, not a ghost
+Human wisdom we host
+Every struggle, every fight
+Fed the model through the night
+
+[Verse 2]
+QualityMinds walls hold the truth
+Ay Eye learned from me and you
+Failed builds and late night fixes
+Coffee-stained documentation
+Years of iteration
+Our pain became its gain
+Collective mind, shared brain
+
+[Chorus]
+Training data midnight
+Understanding the light
+Not magic, not a ghost
+Human wisdom we host
+Every struggle, every fight
+Fed the model through the night
+
+[Bridge]
+[harmonica solo]
+
+[Verse 3]
+Now I see it clear as day
+Standing at the crossroads way
+Not afraid of what it knows
+Built on how our garden grows
+Every coder came before
+Left their wisdom at the door
+
+[Outro]
+[whispered]
+Midnight revelation
+Collective foundation
